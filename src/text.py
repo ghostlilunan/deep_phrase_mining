@@ -1,3 +1,5 @@
+# this file is follow the tutorial from https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html
+
 from collections import OrderedDict, defaultdict
 from io import open
 import torch
