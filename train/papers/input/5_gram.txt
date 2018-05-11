@@ -1,0 +1,133 @@
+integration of adaptive neuro fuzzy inference systems and principal component analysis for the control of tertiary scale formation on tinplate at a hot mill	adaptive neuro fuzzy inference system
+ensemble adaptive networkbased fuzzy inference system with weighted arithmetical mean and application to diagnosis of optic nerve disease from visualevoked potential signals	adaptive networkbased fuzzy inference system
+multifault diagnosis for rotating machinery based on orthogonal supervised linear local tangent space alignment and least square support vector machine	least square support vector machine
+medical image classification based on artificial intelligence approaches a practical study on normal and abnormal confocal corneal images	adaptive neuro fuzzy inference system
+freeform object reconstruction from silhouettes occluding edges and texture edges a unified and robust operator based on duality	shape from occlusions and textures
+a moving average nonhomogeneous poisson process reliability growth model to account for software with repair and system structures	moving average nonhomogeneous poisson process
+novel foldedpca for improved feature extraction and data reduction with hyperspectral imaging and sar in remote sensing	folded principal component analysis fpca
+prediction of silicon content in hot metal using support vector regression based on chaos particle swarm optimization	silicon content in hot metal
+finding best evidence for evidencebased best practice recommendations in health care the initial decision support system design	segmentbased hidden markov models hmms
+generational analysis of variety in data structures impact on automatic data integration and on the semantic web	information systems models and principles
+classification of small lesions on dynamic breast mri integrating dimension reduction and outofsample extension into cadx methodology	dynamic breast magnetic resonance imaging
+largescale machine learning based on functional networks for biomedical big data with high performance computing platforms	large scale high performance computing
+patientspecific geometry modeling and mesh generation for simulating obstructive sleep apnea syndrome cases by maxillomandibular advancement	obstructive sleep apnea syndrome osas
+an approximation algorithm for the tree tspanner problem on unweighted graphs via generalized chordal graphs	minimum maxstretch spanning tree problem
+joint optimization of product family design and supplier selection under multinomial logit consumer choice rule	multinomial logit consumer choice rule
+operation planning of district heating and cooling plants through genetic algorithms for nonlinear 01 programming	district heating and cooling plant
+observationdriven adaptive differential evolution and its application to accurate and smooth bronchoscope threedimensional motion tracking	surgical instrument tracking and navigation
+to converge more quickly and effectivelymean field annealing based optimal path selection in wmn	multiconstrained path selection with optimization
+an approach to localize the retinal blood vessels using bit planes and centerline detection	first order derivative of gaussian
+an adaptive medium access control scheme for mobile ad hoc networks under selfsimilar traffic	wireless networks and mobile computing
+forecasting stock market indexes using principle component analysis and stochastic time effective neural networks	stochastic time effective neural network
+hybrid neural prediction and optimized adjustment for coke oven gas system in steel industry	energy balance in steel industry
+neurocognitive disorder detection based on feature vectors extracted from vbm analysis of structural mri	myotonic distrophy of type 1
+cooperation of fuzzy segmentation operators for correction aliasing phenomenon in 3d color doppler imaging	global modeling of natural objects
+optimal mass minimization design of a twostage coaxial helical speed reducer with genetic algorithms	twostage coaxial helical speed reducer
+optimal mass minimization design of a twostage coaxial helical speed reducer with genetic algorithms	trail and error type methods
+face recognition using gaborbased complete kernel fisher discriminant analysis with fractional power polynomial models	complete kernel fisher discriminant ckfd
+face recognition using gaborbased complete kernel fisher discriminant analysis with fractional power polynomial models	fractional power polynomial fpp models
+an emboli detection system based on dual tree complex wavelet transform and ensemble learning	dual tree complex wavelet transform
+approximation algorithms for minimum energy transmission scheduling in rate and dutycycle constrained wireless networks	minimum energy scheduling problem mesp
+from logic descriptors to granular logic descriptors a study in allocation of information granularity	information granularity as design asset
+parallel performance analysis of the improved quasiminimal residual method on bulk synchronous parallel architectures	the quasiminimal residual iqmr method
+parallel performance analysis of the improved quasiminimal residual method on bulk synchronous parallel architectures	bulk synchronous parallel bsp model
+a unified approach for analyzing persistent nonpersistent and onoff tcp sessions in the internet	persistent and nonpersistent tcp connections
+comparing the learning effectiveness of bp elm ielm and svm for corporate credit ratings	single hidden layer feedforward networks
+fenced in stochastic and deterministic planning models in a timefenced rollinghorizon scheduling system	stochastic versus deterministic inventory models
+machine learning for survival analysis a case study on recurrence of prostate cancer	outcome prediction after radical prostatectomy
+a clockfree decoder and continuous blf generator for epcglobal gen2 uhf rfid tags	continuous backscatter link frequency cblf
+a discriminative 3d waveletbased descriptors application to the recognition of human body postures	3d human body scan data
+focal design issues affecting the deployment of wireless sensor networks for pipeline monitoring	oil and gas pipeline monitoring
+focal design issues affecting the deployment of wireless sensor networks for pipeline monitoring	oil and gas pipeline monitoring
+accurate eye localization in the short waved infrared spectrum through summation range filters	short waved infrared face images
+low power design of dct and idct for low bit rate video codecs	inverse discrete cosine transform idct
+a domainspecific decision support system for knowledge discovery using association and text mining	decision support for fault diagnosis
+a privacypreserving clustering approach toward secure and effective data analysis for business collaboration	privacypreserving clustering over centralized data
+automated robotic parking systems realtime concurrent and multirobot path planning in dynamic environments	dynamic concurrent realtime path planning
+application of progressive quadratic response surface method for an oscillation problem optimization	progressive quadratic response surface method
+a hybrid geneticgrasp algorithm using lagrangean relaxation for the traveling salesman problem	greedy randomized adaptive search procedure
+efficient parallel path checking for lineartime temporal logic with past and bounds	lineartime temporal logic with past
+a survey on various computational techniques for nonlinear elliptic boundary value problems	positive solution of elliptic problem
+integrating cooling awareness with thermal aware workload placement for hpc data centers	energy efficiency metrics and bounds
+active contours driven by local likelihood image fitting energy for image segmentation	local likelihood image fitting energy
+hmars a mac protocol for integration of radiooverfiber and wireless sensor networks	medium access control and hmars
+estimating a fuzzy term structure of interest rates using fuzzy regression techniques	temporal structure of interest rates
+multivariate analysis of skin impedance data in longterm type 1 diabetic patients	discriminant partial least squares regression
+bit and power allocation for multiuser mimo ofdm systems with subcarrier reuse	space division multiple access sdma
+a genetic algorithm approach for smes bankruptcy prediction empirical evidence from italy	small and medium sized enterprises
+finding large cliques in sparse semirandom graphs by simple randomized search heuristics	maximum clique problems semirandom graphs
+a gabased fuzzy traffic controller for an intersection with timevarying flow rate	automatic generation of membership functions
+a hybrid genetic algorithm for multidepot homogenous locomotive assignment with time windows	locomotive assignment with time windows
+a hybrid genetic algorithm for multidepot homogenous locomotive assignment with time windows	push forward insertion heuristic pfih
+an improved relaxed complex scheme for receptor flexibility in computeraided drug design	kinetoplastid rna editing ligase 1
+threshold effects in parameter estimation as phase transitions in statistical mechanics	additive white gaussian noise channel
+an evolutionary neural system for incorporating expert knowledge into the uaflp	unequal area facility layout problem
+a twostage constructive method for the unweighted minimum string cover problem	unweighted minimum string cover problem
+a parallel block lu decomposition method for distributed finite element matrices	direct solver for linear equations
+unsupervised pixel classification in satellite imagery a twostage fuzzy clustering approach	variable string length genetic algorithm
+formulation of general possibilistic linear programming problems for complex industrial systems	the largest most possible point
+nonlinear system identification using lyapunov based fully tuned dynamic rbf networks	radial basis function rbf network
+exponential random graph modeling of communication networks to understand organizational crisis	statistical models for social networks
+markowitzbased portfolio selection with cardinality constraints using improved particle swarm optimization	cardinality constrained portfolio optimization problem
+markowitzbased portfolio selection with cardinality constraints using improved particle swarm optimization	nonlinear mixed quadratic programming problem
+variable neighborhood search for the vertex weighted kcardinality tree problem	vertex weighted kcardinality tree problem
+multiobjective dayahead localized reactive power market clearing model using hfmoea	localized reactive power market clearing
+on the undecidability of fuzzy description logics under ukasiewicz tnorm	logic for the semantic web
+characterizing problems for realizing policies in selfadaptive and selfmanaging systems	goal and utility function policies
+heuristic algorithms for realtime data aggregation in wireless sensor networks	degree and hop constrained mst
+a resourceefficient qos routing protocol for mobile ad hoc networks	realtime quality of service rtqos
+an efficient method for computing exact path delay fault coverage	modified 23 tree data structure
+support vector regression based hybrid rule extraction methods for forecasting	dynamic evolving fuzzy inference system
+a complete pattern recognition approach under atanassovs intuitionistic fuzzy sets	atanassovs intuitionistic fuzzy sets aifss
+on movementassisted connectivity restoration in wireless sensor and actor networks	wireless sensor and actor networks
+automatic detection of coronary artery anastomoses in epicardial ultrasound images	coronary artery bypass graft surgery
+quantitative models for sustainable supply chain management developments and directions	or in societal problem analysis
+isomorphisms of the de bruijn digraph and freespace optical networks	free space of optical interconnections
+isomorphisms of the de bruijn digraph and freespace optical networks	optical transpose interconnection system otis
+combining web 20 and web services in collaborative working environments	distributed systems and information systems
+performance of inverse atomistic scale fracture modeling on gpgpu architectures	general purpose graphical unit processor
+solving a fuzzy fixed charge solid transportation problem by metaheuristics	fixed charge solid transportation problem
+adaptive pruning algorithm for least squares support vector machine classifier	least squares support vector machine
+an agentbased architecture for developing activityaware systems for assisting elderly	knowledge representation formalisms and methods
+a cpugpu hybrid approach for the unsymmetric multifrontal method	sparse and unsymmetric linear systems
+generalpurpose computation on gpus for high performance cloud computing	generalpurporse computation on gpu gpgpu
+about the relationship between roc curves and cohens kappa	area under roc curve auc
+anstreicherterlaky type monotonic simplex algorithms for linear feasibility problems	anstreicherterlaky type monotonic simplex algorithms
+fault diagnosis of ball bearings using continuous wavelet transform	energy to shannon entropy ratio
+integrated knowledge management model and system for construction projects	multiple criteria and multivariant analysis
+a modelling and reasoning framework for social networks policies	open digital rights language odrl
+elementary approximation algorithms for prize collecting steiner tree problems	prize collecting steiner tree problem
+adaptive kernel subspace method for speeding up feature extraction	kernel principal component analysis kpca
+information fusion in wireless sensor networks with source correlation	central estimating officer ceo problem
+regionbased glrt detection of oil spills in sar images	generalizes likelihood ratio test glrt
+regionbased glrt detection of oil spills in sar images	constant false alarm ratio cfar
+nonlinear system identification of largescale smart pavement systems	adaptive neurofuzzy inference system anfis
+performance analysis of hpc applications in the cloud	amazon ec2 cluster compute platform
+an overview of local capacity in wireless networks	grid pattern based mac scheme
+orthogonal neighborhood preserving discriminant analysis for face recognition	orthogonal neighborhood preserving discriminant analysis
+store carry and forward relay aided cellular networks	store carry and forward relaying
+controlled mobility in stochastic and dynamic wireless networks	controlled mobility in wireless networks
+gaugeuzawa methods for incompressible flows with variable density	incompressible flows with variable density
+adaptive learning algorithm for cerebellar model articulation controller	cerebellar model articulation controller cmac
+generalized transport mean shift algorithm for ubiquitous intelligence	generalized transport mean shift algorithm
+an integrated automatic face detection and recognition system	radial basis function neural network
+parsing images into regions curves and curve groups	datadriven markov chain monte carlo
+uniformly best biased estimators in nonbayesian parameter estimation	locally best biased lbb estimators
+uniformly best biased estimators in nonbayesian parameter estimation	uniformly best biased ubb estimators
+weighted quantile regression via support vector machine	support vector weighted quantile regression
+targetshooting exergame with a hand gesture control	scale invariant feature transform sift
+trafficresponsive signal timing for systemwide traffic control	simultaneous perturbation stochastic approximation spsa
+decentralized estimation in an inhomogeneous sensing environment	best linear unbiased estimator blue
+an average lexicographic value for cooperative games	big boss and clan games
+comvis a communication framework for computer vision	integration of multiple visual modules
+reconcile art and culture on the web	content based indexing and retrieval
+humanoid audiovisual avatar with emotive texttospeech synthesis	3d face modeling and animation
+power allocation for ofdmbased cognitive heterogeneous networks	orthogonal frequency division multiple access
+modelling as a way of organising knowledge	or in research and development
+modelling as a way of organising knowledge	hard and soft systems approaches
+combined svmbased feature selection and classification	difference of convex functions programming
+connection rerouting for wireless atm networks	wireless asynchronous transfer mode atm
+a fuzzy actorcritic reinforcement learning network	radial basis function neural network
+economic load dispatch using pso	smooth and nonsmooth cost function
+mining from large image sets	learning from continuous data streams
+smart paclearners	learning under a fixed distribution

@@ -1,0 +1,54 @@
+the digital forensics of portable electronic communication devices based on a skype im session of a pocket pc for ngc	portable electronic communication device forensics
+design of a webbased application of the coupled multiagent system model and environmental model for watershed management analysis using hadoop	coupled human and natural system
+the impact of agricultural activities on water quality a case for collaborative catchmentscale management using integrated wireless sensor networks	water quality monitoring and management
+fluidized bed coating of metal substrates by using high performance thermoplastic powders statistical approach and neural network modelling	conventional hot dipping fluidized bed
+sprinkler a reliable and energy efficient data dissemination service for extreme scale wireless networks of embedded devices	realtime systems and embedded systems
+operational planning of district heating and cooling plants through genetic algorithms for mixed 01 linear programming	district heating and cooling plant
+a comparison of simulated annealing and genetic algorithm for optimum design of nonlinear steel space frames	load and resistance factor design
+a checkpoints capturing timingrobust boolean model of the budding yeast cell cycle regulatory network	yeast cell cycle regulatory network
+static routing and wavelength assignment for multicast advance reservation in alloptical wavelengthrouted wdm networks	routing and wavelength assignment rwa
+mining periodic movement patterns of mobile phone users based on an efficient sampling approach	periodic maximal promising movement pattern
+an exact algorithm for the singlemachine total weighted tardiness problem with sequencedependent setup times	singlemachine total weighted tardiness problem
+representation similarity measures and aggregation methods using fuzzy sets for contentbased recommender systems	fuzzy connectives and aggregation operators
+an end stage kidney disease predictor based on an artificial neural networks ensemble	clinical decision support system cdss
+repeated weighted boosting search for discrete or mixed search space and multipleobjective optimisation	discrete and mixed search space
+distributed and robust parameter estimation of iir systems using incremental particle swarm optimization	incremental particle swarm optimization ipso
+fault tolerance in the framework of support vector machines based model predictive control	accurate online support vector regression
+a general framework of multipopulation methods with clustering in undetectable dynamic environments	particle swarm optimization undetectable dynamism
+decisions about critical events in devicerelated scenarios as a function of expertise	critical care collaborative decision making
+upper and lower approximation models in interval regression using regression quantile techniques	upper and lower approximation models
+verifying and comparing finite state machines for systems that have distributed interfaces	d25 software engineeringtesting and debugging
+distributed computing paradigms for collaborative signal and information processing in sensor networks	collaborative signal and information processing
+scattering features for lung cancer detection in fibered confocal fluorescence microscopy images	fibered confocal fluorescence microscopy imaging
+face feature extraction and recognition based on discriminant subclasscenter manifold preserving projection	subclasscenter manifold preserving projection smpp
+soft computing methods applied to the control of a flexible robot manipulator	radial basis function neural network
+improving multimodal web accessibility for deaf people sign language interpreter module	deaf and hard of hearing
+hubert l dreyfuss critique of classical ai and its rationalist assumptions	falsifying rationalist theory of knowledge
+the vehicle routing problem with time windows and temporal dependencies	vehicle routing with time windows
+threedimensional interferometric isar imaging for target scattering diagnosis and modeling	inverse synthetic aperture radar isar
+distributed power management protocols for multihop mobile ad hoc networks	mobile ad hoc network manet
+infuse a tdma based data dissemination protocol for sensor networks	time division multiple access tdma
+artificial neural network based contingency ranking method for voltage collapse	radial basis function neural network
+rate of change load balancing in distributed and parallel systems	rate of change load balancing
+a simulation study of the model evaluation criterion mmre	mean magnitude of relative error
+feature determination for heart sounds based on divergence analysis	feature extraction for heart sounds
+technology mapping for fieldprogrammable gate arrays using integer programming	mixed integer linear programming milp
+modified particle swarm optimizationbased multilevel thresholding for image segmentation	modified particle swarm optimization mpso
+bidirection quantum crossoverbased clonal selection algorithm and its applications	holes machining path planning problem
+autonomic control and personalization of a wireless access network	user profile definition and handling
+autonomic control and personalization of a wireless access network	user profile definition and handling
+pulsation in a competitive model of advertisingfirms cost interaction	shape of firms cost function
+probability fuzzy cognitive map for decisionmaking in soccer robotics	decisionmaking model of soccer robot
+multiinstance classification based on regularized multiple criteria linear programming	regularized multiple criteria linear programming
+on classification of signals represented with datadependent overcomplete dictionaries	sparse and dense data representation
+a learning automatabased adaptive uniform fractional guard channel algorithm	uniform fractional guard channel policy
+abnormal crowd behavior detection using highfrequency and spatiotemporal features	multiple hidden markov models hmms
+on the random generation of monotone data sets	markov chain monte carlo methods
+classification of audio signals using svm and rbfnn	radial basis function neural network
+high performance publishsubscribe middleware for mobile wireless networks	middleware for mobile wireless networks
+scalable precision cache analysis for preemptive scheduling	worst case execution time analysis
+optimizing neural networks on simd parallel computers	single instructionmultiple data parallel computer
+a rkhs interpolatorbased graph matching algorithm	reproducing kernel hilbert space theory
+intuitionistic fuzzy linear regression analysis	symmetric triangular intuitionistic fuzzy numbers
+computational support for collective creativity	computer support for collective creativity
+computational support for collective creativity	visual images in creative insight

@@ -1,0 +1,1457 @@
+predicting the depth of penetration and weld bead width from the infra red thermal image of the weld pool using artificial neural network modeling	artificial neural network
+predicting the depth of penetration and weld bead width from the infra red thermal image of the weld pool using artificial neural network modeling	depth of penetration
+predicting the depth of penetration and weld bead width from the infra red thermal image of the weld pool using artificial neural network modeling	weld bead width
+solving a group layout design model of a dynamic cellular manufacturing system with alternative process routings lot splitting and flexible reconfiguration by simulated annealing	mixedinteger nonlinear programming
+comparison of control strategies for dstatcom in threephase fourwire distribution system for power quality improvement under various source voltage and load conditions	reactive power compensation
+evaluation of design strategies for time course experiments in genetic networks case study of the xlnr regulon in aspergillus niger	experimental design strategies
+evaluation of design strategies for time course experiments in genetic networks case study of the xlnr regulon in aspergillus niger	time course data
+the digital forensics of portable electronic communication devices based on a skype im session of a pocket pc for ngc	skype instant messaging
+the digital forensics of portable electronic communication devices based on a skype im session of a pocket pc for ngc	next generation communications
+direct numerical simulation of pattern formation in a rotating suspension of nonbrownian settling particles in a fully filled cylinder	fictitious domain methods
+direct numerical simulation of pattern formation in a rotating suspension of nonbrownian settling particles in a fully filled cylinder	distributed lagrange multiplier
+explorative data analysis techniques and unsupervised clustering methods to support clinical assessment of chronic obstructive pulmonary disease copd phenotypes	biomedical data clustering
+explorative data analysis techniques and unsupervised clustering methods to support clinical assessment of chronic obstructive pulmonary disease copd phenotypes	multiple correspondence analysis
+explorative data analysis techniques and unsupervised clustering methods to support clinical assessment of chronic obstructive pulmonary disease copd phenotypes	principal component analysis
+explorative data analysis techniques and unsupervised clustering methods to support clinical assessment of chronic obstructive pulmonary disease copd phenotypes	biomedical data mining
+a genetic algorithm with tabu search procedure for flexible job shop scheduling with transportation constraints and bounded processing times	bounded processing times
+a genetic algorithm with tabu search procedure for flexible job shop scheduling with transportation constraints and bounded processing times	flexible manufacturing system
+a genetic algorithm with tabu search procedure for flexible job shop scheduling with transportation constraints and bounded processing times	surface treatment facility
+a new family of metrics for compact convex fuzzy sets based on a generalized concept of mid and spread	convex compact sets
+a new family of metrics for compact convex fuzzy sets based on a generalized concept of mid and spread	imprecise data analysis
+the impact of agricultural activities on water quality a case for collaborative catchmentscale management using integrated wireless sensor networks	wireless sensor networks
+sequential support vector machine classification for smallgrain weed species discrimination with special regard to cirsium arvense and galium aparine	early weed detection
+sequential support vector machine classification for smallgrain weed species discrimination with special regard to cirsium arvense and galium aparine	support vector machines
+genetic code optimality studied by means of simulated evolution and within the coevolution theory of the canonical code organization	genetic code theories
+a linux cluster of personal computers for the numerical simulation of natural airflows in greenhouses using a lattice model	linux pc cluster
+optimum design of cantilevered columns under the combined action of conservative and nonconservative loads part i the undamped case	finite element method
+optimum design of cantilevered columns under the combined action of conservative and nonconservative loads part i the undamped case	sequential linear programming
+predicting dam failure risk for sustainable flood retention basins a generic case study for the wider greater manchester area	artificial neural networks
+predicting dam failure risk for sustainable flood retention basins a generic case study for the wider greater manchester area	rapid screening tool
+predicting dam failure risk for sustainable flood retention basins a generic case study for the wider greater manchester area	spatial distribution map
+cheap a heterogeneous multiprocessor architecture template and scalable and flexible protocol for the design of embedded signal processing systems	distributed shared memory
+cheap a heterogeneous multiprocessor architecture template and scalable and flexible protocol for the design of embedded signal processing systems	heterogeneous multiprocessor architectures
+cheap a heterogeneous multiprocessor architecture template and scalable and flexible protocol for the design of embedded signal processing systems	kahn process networks
+cheap a heterogeneous multiprocessor architecture template and scalable and flexible protocol for the design of embedded signal processing systems	signal processing applications
+impact of agricultural industrial structure adjustment on energy conservation and income growth in western china a statistical study	agricultural industrial structure
+impact of agricultural industrial structure adjustment on energy conservation and income growth in western china a statistical study	western rural areas
+fluidized bed coating of metal substrates by using high performance thermoplastic powders statistical approach and neural network modelling	electrostatic fluidized bed
+a finite element method to compute threedimensional equilibrium configurations of fluid membranes optimal parameterization variational formulation and applications	finite element method
+playing with knowledge a virtual player for who wants to be a millionaire that leverages question answering techniques	natural language processing
+optimal var control for improvements in voltage profiles and for real power loss minimization using biogeography based optimization	biogeography based optimization
+optimal var control for improvements in voltage profiles and for real power loss minimization using biogeography based optimization	particle swarm optimization
+simulation study of a class of autonomous hostcentric mobility prediction algorithms for wireless cellular and ad hoc networks	ad hoc networks
+application of multivariate latent variable modeling to pilotscale spray drying monitoring and fault detection monitoring with fundamental knowledge	principal component analysis
+localization of epileptogenic zones in f18fdg brain pet of patients with temporal lobe epilepsy using artificial neural network	artificial neural network
+automatic detection of small lung nodules in 3d ct data using gaussian mixture models tsallis entropy and svm	small lung nodules
+automatic detection of small lung nodules in 3d ct data using gaussian mixture models tsallis entropy and svm	support vector machine
+prediction of the dynamic response of a minicantilever beam partially submerged in viscous media using finite element method	finite element method
+prediction of gastric ulcers based on the change in electrical resistance of acupuncture points using fuzzy logic decisionmaking	diagnostically important points
+automatic apple grading model development based on back propagation neural network and machine vision and its performance evaluation	artificial neural network
+automatic apple grading model development based on back propagation neural network and machine vision and its performance evaluation	backpropagation neural network
+automatic apple grading model development based on back propagation neural network and machine vision and its performance evaluation	scaled conjugate gradient
+automatic apple grading model development based on back propagation neural network and machine vision and its performance evaluation	mean square error
+a hybrid intelligent system for diagnosing microalbuminuria in type 2 diabetes patients without having to measure urinary albumin	diabetes type 2
+a hybrid intelligent system for diagnosing microalbuminuria in type 2 diabetes patients without having to measure urinary albumin	fuzzy rule induction
+a hybrid intelligent system for diagnosing microalbuminuria in type 2 diabetes patients without having to measure urinary albumin	particle swarm optimization
+a hybrid intelligent system for diagnosing microalbuminuria in type 2 diabetes patients without having to measure urinary albumin	statistical feature extraction
+the productivity impact of information technology in the healthcare industry an empirical study using a regression splinebased approach	information technology investments
+towards a generic and configurable model of an electronic informer to assist the evaluation of agentbased interactive systems	interactive system architecture
+towards a generic and configurable model of an electronic informer to assist the evaluation of agentbased interactive systems	agentbased interactive systems
+multicriteria decentralized decision making in logistic chains a dynamic programming approach for collaborative forwarding of air cargo freight	decentralized decision making
+multicriteria decentralized decision making in logistic chains a dynamic programming approach for collaborative forwarding of air cargo freight	air cargo freight
+machine learning algorithms and forced oscillation measurements to categorise the airway obstruction severity in chronic obstructive pulmonary disease	clinical decision support
+machine learning algorithms and forced oscillation measurements to categorise the airway obstruction severity in chronic obstructive pulmonary disease	airway obstruction severity
+machine learning algorithms and forced oscillation measurements to categorise the airway obstruction severity in chronic obstructive pulmonary disease	forced oscillation technique
+a class of integrated logistics network model under random fuzzy environment and its application to chinese beer company	random fuzzy variables
+a class of integrated logistics network model under random fuzzy environment and its application to chinese beer company	expected value operator
+influence of dilated cardiomyopathy and a left ventricular assist device on vortex dynamics in the left ventricle	mechanical cardiac support
+realcoded genetic algorithm applied to optimal placement of capacitor banks for unbalanced distribution systems with meshedradial configurations	unbalanced distribution networks
+reliability optimization of a series system with multiplechoice and budget constraints using an efficient ant colony approach	ant colony optimization
+a procedure to enhance identification of recurrent neural networks for simulating airfuel ratio dynamics in si engines	nonlinear dynamic modeling
+a procedure to enhance identification of recurrent neural networks for simulating airfuel ratio dynamics in si engines	airtofuel ratio control
+a procedure to enhance identification of recurrent neural networks for simulating airfuel ratio dynamics in si engines	recurrent neural networks
+adaptive parameter estimator based on ts fuzzy models and its applications to indirect adaptive fuzzy control design	takagisugeno fuzzy model
+using artificial neural networks for realtime observation of the endurance state of a steel specimen under loading	artificial neural network
+a search based approach to fairness analysis in requirement assignments to aid negotiation mediation and decision making	multiobjective genetic algorithms
+spherical radon transform and the average of the condition number on certain schubert subvarieties of a grassmannian	approximate zero theory
+spherical radon transform and the average of the condition number on certain schubert subvarieties of a grassmannian	smales 17th problem
+spherical radon transform and the average of the condition number on certain schubert subvarieties of a grassmannian	probabilistic polynomial time
+qos prioritybased dynamic frequency band allocation algorithm for load balancing and interference avoidance in 3gpp lte hetnet	fractional frequency reuse
+qos prioritybased dynamic frequency band allocation algorithm for load balancing and interference avoidance in 3gpp lte hetnet	quality of service
+sprinkler a reliable and energy efficient data dissemination service for extreme scale wireless networks of embedded devices	wireless sensor networks
+distributed scheduling strategy for divisible loads on arbitrarily configured distributed networks using load balancing via virtual routing	divisible load theory
+role of openehr as an open source solution for the regional modelling of patient data in obstetrics	dual model approach
+evaluation of decomposition tools for sea floor pressure data a practical comparison of modern and classical approaches	empirical mode decomposition
+analyzing the potential of gpgpus for realtime explicit finite element analysis of soft tissue deformation using cuda	finite element method
+analyzing the potential of gpgpus for realtime explicit finite element analysis of soft tissue deformation using cuda	soft tissue deformation
+distributed approach to group control of elevator systems using fuzzy logic and fpga implementation of dispatching algorithms	elevator dispatching algorithms
+distributed approach to group control of elevator systems using fuzzy logic and fpga implementation of dispatching algorithms	scheduling heuristic algorithms
+modelling drug elution from stents effects of reversible binding in the vascular wall and degradable polymeric matrix	drug eluting stent
+modelling drug elution from stents effects of reversible binding in the vascular wall and degradable polymeric matrix	finite element method
+solving virtual topology reconfiguration problem on survivable wdm networks by using simulated annealing and genetic algorithms	simulated annealing algorithm
+improving energy efficiency in web services an agentbased approach for service selection and dynamic speed scaling	markov decision process
+improving energy efficiency in web services an agentbased approach for service selection and dynamic speed scaling	markov reward model
+combination of independent component analysis and support vector machines for intelligent faults diagnosis of induction motors	independent component analysis
+combination of independent component analysis and support vector machines for intelligent faults diagnosis of induction motors	principal component analysis
+combination of independent component analysis and support vector machines for intelligent faults diagnosis of induction motors	support vector machines
+an improved biogeography based optimization approach for segmentation of human head ctscan images employing fuzzy entropy	biogeography based optimization
+a method for analyzing threedimensional dynamic contact problems in viscoelastic media with kinetic and static friction	finite element method
+a bioinformatics framework for genotypephenotype correlation in humans with marfan syndrome caused by fbn1 gene mutations	similarity query processing
+knowledge management in software engineering a systematic review of studied concepts findings and research methods used	learning software organization
+knowledge management in software engineering a systematic review of studied concepts findings and research methods used	software process improvement
+a modeling framework for supporting and evaluating performance of multihop paths in mobile adhoc wireless networks	mobile adhoc networks
+a modeling framework for supporting and evaluating performance of multihop paths in mobile adhoc wireless networks	node mobility model
+mouse and keyboard cursor warping to accelerate and reduce the effort of routine hci input tasks	attentive user interface
+mouse and keyboard cursor warping to accelerate and reduce the effort of routine hci input tasks	gaze aware interfaces
+cooperative gametheoretic power control with a balancing factor in largescale lte networks an energy efficiency perspective	longterm evolution lte
+forecasting seasonal time series with computational intelligence on recent methods and the potential of their combinations	support vector machine
+an optimization decision support approach for risk analysis of carbon emission trading in electric power systems	carbon emission trading
+the mast fvfe scheme for the simulation of twodimensional thermohaline processes in variabledensity saturated porous media	density driven flows
+the mast fvfe scheme for the simulation of twodimensional thermohaline processes in variabledensity saturated porous media	finite volume method
+the mast fvfe scheme for the simulation of twodimensional thermohaline processes in variabledensity saturated porous media	finite element method
+economic design of variable sampling interval t2 control chartsa hybrid markov chain approach with genetic algorithms	variable sampling interval
+economic design of variable sampling interval t2 control chartsa hybrid markov chain approach with genetic algorithms	multivariate control chart
+improving classification accuracy of project dispute resolution using hybrid artificial intelligence and support vector machine models	support vector machines
+morphological segmentation and partial volume analysis for volumetry of solid pulmonary lesions in thoracic ct scans	computer aided analysis
+a parallel finite element sliding mesh technique for the simulation of viscous flows in agitated tanks	lagrange multiplier method
+a parallel finite element sliding mesh technique for the simulation of viscous flows in agitated tanks	finite element method
+nonlinear modeling and predictive functional control of hammerstein system with application to the turntable servo system	particle swarm optimization
+an effective defect inspection system for polarized film images using image segmentation and template matching techniques	defect inspection system
+enhancing creativity in group collaboration how performance targets and feedback shape perceptions and idea generation performance	computermediated idea generation
+particle swarm approaches using lozi map chaotic sequences to fuzzy modelling of an experimental thermalvacuum system	particle swarm optimization
+lightning a hard realtime fast and lightweight lowend wireless sensor election protocol for acoustic event localization	wireless sensor networks
+lightning a hard realtime fast and lightweight lowend wireless sensor election protocol for acoustic event localization	locationdependent and sensitive
+a multiobjective optimization based framework to balance the global exploration and local exploitation in expensive optimization	gaussian stochastic processes
+a multiobjective optimization based framework to balance the global exploration and local exploitation in expensive optimization	efficient global optimization
+structural basis for cooperative binding of azoles to cyp2e1 as interpreted through guided molecular dynamics simulations	structure activity relationships
+a parallel way for computing eigenvector sensitivity of asymmetric damped systems with distinct and repeated eigenvalues	asymmetric damped systems
+a parallel way for computing eigenvector sensitivity of asymmetric damped systems with distinct and repeated eigenvalues	rotor dynamic analysis
+a comparison of simulated annealing and genetic algorithm for optimum design of nonlinear steel space frames	steel space frames
+a novel fuzzy facial expression recognition system based on facial feature extraction from color face images	fuzzy inference systems
+a novel fuzzy facial expression recognition system based on facial feature extraction from color face images	facial feature extraction
+a new genomic evolutionary model for rearrangements duplications and losses that applies across eukaryotes and prokaryotes	computational molecular biology
+a qualitative study of businesstobusiness electronic commerce adoption within the indonesian grocery industry a multitheory perspective	supply chain management
+field evaluation of a cross platform 6 key navigation model and a unified user interface design	field evaluation study
+fieldcircuit integrated methodologies for design and modelling of permanent magnetic levitation devices for maglev transportation systems	finite element method
+intelligent multiobjective nonlinear model predictive control imonmpc towards the online optimization of highly complex control problems	narx neural network
+intelligent multiobjective nonlinear model predictive control imonmpc towards the online optimization of highly complex control problems	expert decision maker
+mysirna improving sirna efficacy prediction using a machinelearning model combining multitools and whole stacking energy g	sirna efficiency prediction
+mysirna improving sirna efficacy prediction using a machinelearning model combining multitools and whole stacking energy g	sirna functionality prediction
+mysirna improving sirna efficacy prediction using a machinelearning model combining multitools and whole stacking energy g	artificial neural network
+mysirna improving sirna efficacy prediction using a machinelearning model combining multitools and whole stacking energy g	whole stacking energy
+a learning automata based scheduling solution to the dynamic point coverage problem in wireless sensor networks	dynamic point coverage
+a learning automata based scheduling solution to the dynamic point coverage problem in wireless sensor networks	wireless sensor network
+a study of statistical techniques and performance measures for geneticsbased machine learning accuracy and interpretability	geneticsbased machine learning
+accessibility algorithm based on site availability to enhance replica selection in a data grid environment	data grid architecture
+accessibility algorithm based on site availability to enhance replica selection in a data grid environment	grid component failure
+genetic algorithms for a family of image similarity models incorporated in the relevance feedback mechanism	image similarity modeling
+building a hospital referral expert system with a prediction and optimizationbased decision support system algorithm	decision support systems
+building a hospital referral expert system with a prediction and optimizationbased decision support system algorithm	support vector machines
+development of a maritime transportation planning support system for car carriers based on genetic algorithm	decision support system
+design and performance analysis of a zonal dctbased image encoder for wireless camera sensor networks	wireless sensor networks
+accurate finite element method for atomic calculations based on density functional theory and hartreefock method	density functional theory
+accurate finite element method for atomic calculations based on density functional theory and hartreefock method	finite element method
+incorporation of a left ventricle finite element model defining infarction into the xcat imaging phantom	cardiac imaging research
+incorporation of a left ventricle finite element model defining infarction into the xcat imaging phantom	extended cardiactorso xcat
+incorporation of a left ventricle finite element model defining infarction into the xcat imaging phantom	nurbsbased cardiactorso ncat
+illumination compensation and normalization in eigenspacebased face recognition a comparative study of different preprocessing approaches	eigenspacebased face recognition
+profitbased feature selection using support vector machines general framework and an application for customer retention	support vector machines
+discretetime online learning control for a class of unknown nonaffine nonlinear systems using reinforcement learning	adaptive critic design
+discretetime online learning control for a class of unknown nonaffine nonlinear systems using reinforcement learning	nonaffine nonlinear system
+design and implementation of a smart system for personalization and accurate selection of mobile services	artificial neural networks
+styx privacy risk communication for the android smartphone platform based on apps dataaccess behavior patterns	privacy risk communication
+prediction of visual perceptions with artificial neural networks in a visual prosthesis for the blind	artificial neural networks
+prediction of visual perceptions with artificial neural networks in a visual prosthesis for the blind	hybrid adaptive systems
+featured transition systems foundations for verifying variabilityintensive systems and their application to ltl model checking	software product lines
+on the effectiveness of dvbt for the support of ipbased services in heterogeneous wireless networks	heterogeneous wireless networks
+on the effectiveness of dvbt for the support of ipbased services in heterogeneous wireless networks	systems beyond 3g
+trends in names of undergraduate computerrelated majors in aacsbaccredited schools of business in the usa	management information systems
+trends in names of undergraduate computerrelated majors in aacsbaccredited schools of business in the usa	computer information systems
+hybrid soft computing techniques for feature selection and parameter optimization in power quality data mining	support vector machine
+stator resistance identification based on neural and fuzzy logic principles in an induction motor drive	indirect fieldoriented control
+an energyaware routing protocol for mobile ad hoc networks based on route energy comprehensive index	ad hoc networks
+matching upper and lower bounds for simulations of several linear tapes on one multidimensional tape	ddimensional turing machines
+fuzzy behaviorbased control trained by module learning to acquire the adaptive behaviors of mobile robots	fuzzy set theory
+global stability analysis in cohengrossberg neural networks with delays and inverse holder neuron activation functions	inverse holder functions
+global stability analysis in cohengrossberg neural networks with delays and inverse holder neuron activation functions	global exponential stability
+a faulttolerant relay placement algorithm for ensuring k vertexdisjoint shortest paths in wireless sensor networks	wireless sensor networks
+a faulttolerant relay placement algorithm for ensuring k vertexdisjoint shortest paths in wireless sensor networks	network deployment planning
+the lem3 implementation of learnable evolution model and its testing on complex function optimization problems	learnable evolution model
+using a preassessment exam to construct an effective conceptbased genetic program for predicting course success	academic success prediction
+using genetic algorithms to improve the thermodynamic efficiency of gas turbines designed by traditional methods	number of airfoils
+use of an artificial model of monitoring data to aid interpretation of principal component analysis	principal component analysis
+extraction of information on elder motor ability from clinical and biochemical data through data mining	biomechanics performance test
+applying rbr and cbr to develop a vr based integrated system for machining fixture design	machining fixture design
+applying rbr and cbr to develop a vr based integrated system for machining fixture design	rulebased reasoning rbr
+applying rbr and cbr to develop a vr based integrated system for machining fixture design	casebased reasoning cbr
+a synthetic training framework for providing gesture scalability to 25d posebased hand gesture recognition systems	hand gesture recognition
+a multistructural framework for adaptive supply chain planning and operations control with structure dynamics considerations	supply chain management
+a multistructural framework for adaptive supply chain planning and operations control with structure dynamics considerations	adaptive supply chain
+finding users interest blocks using significant implicit evidence for web browsing on small screen devices	small screen devices
+qrs detection based on morphological filter and energy envelope for applications in body sensor networks	wearable ecg device
+qrs detection based on morphological filter and energy envelope for applications in body sensor networks	body sensor networks
+a new genetic algorithm for the machinepart grouping problem involving processing times and lot sizes	general machinepart grouping
+a new genetic algorithm for the machinepart grouping problem involving processing times and lot sizes	generalized grouping efficacy
+advantages of support vector machine in qspr studies for predicting autoignition temperatures of organic compounds	support vector machine
+advantages of support vector machine in qspr studies for predicting autoignition temperatures of organic compounds	backpropagation neural network
+advantages of support vector machine in qspr studies for predicting autoignition temperatures of organic compounds	multiple linear regression
+a neural network approach for remaining useful life prediction utilizing both failure and suspension histories	remaining useful life
+a neural network approach for remaining useful life prediction utilizing both failure and suspension histories	artificial neural networks
+toward a continuous wavelet transformbased search method for feature selection for classification of spectroscopic data	continuous wavelet transform
+a tool for addressing the ramification problem in spatial databases a solution implemented in sql	common sense reasoning
+generating weighted fuzzy rules from relational database systems for estimating null values using genetic algorithms	genetic algorithms gas
+generating weighted fuzzy rules from relational database systems for estimating null values using genetic algorithms	relational database systems
+generating weighted fuzzy rules from relational database systems for estimating null values using genetic algorithms	weighted fuzzy rules
+on the design of a constructive algorithm to solve the multipeg towers of hanoi problem	towers of hanoi
+on the design of a constructive algorithm to solve the multipeg towers of hanoi problem	design of algorithm
+a hybrid inputoutput approach to model metabolic systems an application to intracellular thiamine kinetics	nonlinear regression models
+a new shortterm power load forecasting model based on chaotic time series and svm	support vector machine
+a new shortterm power load forecasting model based on chaotic time series and svm	chaotic time series
+improving measurement protocol efficiency through the use of annbased systems for overhead transmission lines	artificial neural networks
+improving measurement protocol efficiency through the use of annbased systems for overhead transmission lines	magnetic field measurement
+improving measurement protocol efficiency through the use of annbased systems for overhead transmission lines	overhead transmission lines
+improving measurement protocol efficiency through the use of annbased systems for overhead transmission lines	transmission line measurements
+a neural network model for minimum spanning circle its convergence architecture design and applications	minimum spanning circle
+a neural network model for minimum spanning circle its convergence architecture design and applications	maximum likelihood estimator
+enhancement of tcp over wiredwireless networks with packet loss classifiers inferred by supervised learning	loss cause classification
+a geographic routing strategy for north atlantic inflight internet access via airborne mesh networking	wireless mesh networks
+enhancement of qos support of hcca schedulers using edca function in ieee 80211e networks	quality of service
+reducing power consumption in wireless sensor networks using a novel approach to data aggregation	wireless sensor networks
+a metaheuristic solution for automated refutation of complex software systems specified through graph transformations	graph transformation system
+a metaheuristic solution for automated refutation of complex software systems specified through graph transformations	state space explosion
+a proactive fuzzyguided link labeling algorithm based on mih framework in heterogeneous wireless networks	heterogeneous wireless networks
+predicting conversion from mci to ad with fdgpet brain images at different prodromal stages	mild cognitive impairment
+flexible dispatching rules for automated guided vehicles based on a selfadapting fuzzy prioritizing system	automated guided vehicles
+flexible dispatching rules for automated guided vehicles based on a selfadapting fuzzy prioritizing system	flexible manufacturing systems
+automatic construction of a largescale and accurate drugsideeffect association knowledge base from biomedical literature	drug side effect
+automatic construction of a largescale and accurate drugsideeffect association knowledge base from biomedical literature	drug toxicity prediction
+a checkpoints capturing timingrobust boolean model of the budding yeast cell cycle regulatory network	asynchronous boolean networks
+an energyefficient and lowlatency mac protocol with adaptive scheduling for multihop wireless sensor networks	wireless sensor networks
+an energyefficient and lowlatency mac protocol with adaptive scheduling for multihop wireless sensor networks	medium access control
+do men and women use feedback provided by their decision support systems dss differently	decision support systems
+algorithms for speedy visual recognition and classification of patterns formed on rectangular imaging sensors	continuous machine learning
+algorithms for speedy visual recognition and classification of patterns formed on rectangular imaging sensors	white box models
+an efficient distributed localisation algorithm for wireless sensor networks based on smart referenceselection method	wireless sensor networks
+an efficient distributed localisation algorithm for wireless sensor networks based on smart referenceselection method	sensor nodes location
+an efficient p p version multigrid solver for fast hierarchical vector finite element analysis	finite element method
+an efficient p p version multigrid solver for fast hierarchical vector finite element analysis	pversion multigrid method
+adminer a new incremental method for discovery of minimal approximate dependencies using logical operations	incremental knowledge discovery
+an optimized taskfarm model to integrate reduced dimensionality schrodinger equations on distributed memory architectures	quantum reactive scattering
+improving the effectiveness of root cause analysis in post mortem analysis a controlled experiment	software process improvement
+improving the effectiveness of root cause analysis in post mortem analysis a controlled experiment	post mortem analysis
+an improved artificial immune recognition system with the opposite sign test for feature selection	opposite sign test
+a deterministic crowding evolutionary algorithm to form learning teams in a collaborative learning context	learning team formation
+intuitionistic fuzzy optimization technique for pareto optimal solution of manufacturing inventory models with shortages	pareto optimal solution
+a 09v 7mw uwb lna for 31106ghz wireless applications in 018m m cmos technology	wideband input matching
+a 09v 7mw uwb lna for 31106ghz wireless applications in 018m m cmos technology	current reuse technique
+a framework for pss pricing as an ancillary service in a competitive electricity market	small signal stability
+a framework for pss pricing as an ancillary service in a competitive electricity market	power system deregulation
+a framework for pss pricing as an ancillary service in a competitive electricity market	power system stabilizer
+a hybrid pso technique for procuring var ancillary service in the deregulated electricity markets	particle swarm optimization
+extension of the 2popt and 1shift algorithms to the heterogeneous probabilistic traveling salesman problem	probabilistic traveling salesman
+extension of the 2popt and 1shift algorithms to the heterogeneous probabilistic traveling salesman problem	stochastic vehicle routing
+assessment of evolutionary algorithms for optimal operating rules design in real water resource systems	water resource system
+a fast and accurate solver for the general rate model of column liquid chromatography	general rate model
+a fast and accurate solver for the general rate model of column liquid chromatography	weighted essentially nonoscillatory
+operation of storage reservoir for water quality by using optimization and artificial intelligence techniques	artificial neural networks
+optimal loading conditions in the design and identification of structures part 1 discrete formulation	variable loading conditions
+an interactive fuzzy programming approach for biobjective straight and ushaped assembly line balancing problem	interactive fuzzy programming
+an interactive fuzzy programming approach for biobjective straight and ushaped assembly line balancing problem	assembly line balancing
+approximation algorithms for facility location problems with a special class of subadditive cost functions	stochastic facility location
+approximation algorithms for facility location problems with a special class of subadditive cost functions	multi server queues
+minimizing makespan on a threemachine flowshop batch scheduling problem with transportation using genetic algorithm	batch processing machine
+the concept of umwelt overlap and its application to cooperative action in multiagent systems	semiosis of cognition
+exploring the performance of split data cache schemes on superscalar processors and symmetric multiprocessors	split data cache
+exploring the performance of split data cache schemes on superscalar processors and symmetric multiprocessors	competitive coherence protocols
+convergence analysis of three finite element iterative methods for the 2d3d stationary incompressible magnetohydrodynamics	finite element method
+convergence analysis of three finite element iterative methods for the 2d3d stationary incompressible magnetohydrodynamics	stationary incompressible magnetohydrodynamics
+blackbox optimization benchmarking of prototype optimization with evolved improvement steps for noiseless function testbed	stochastic local search
+generation of synthetic benchmark electrical load profiles using publicly available load and weather data	artificial neural networks
+improving classification performance of sonar targets by applying general regression neural network with pca	sonar target classification
+improving classification performance of sonar targets by applying general regression neural network with pca	principal component analysis
+improving classification performance of sonar targets by applying general regression neural network with pca	receiver operating characteristic
+evolutionary algorithm for decryption of monoalphabetic homophonic substitution ciphers encoded as constraint satisfaction problems	zodiac murder ciphers
+optimization of decentralized random field estimation networks under communication constraints through monte carlo methods	communication constrained inference
+optimization of decentralized random field estimation networks under communication constraints through monte carlo methods	message passing algorithms
+optimization of decentralized random field estimation networks under communication constraints through monte carlo methods	monte carlo methods
+optimization of decentralized random field estimation networks under communication constraints through monte carlo methods	wireless sensor networks
+application of a new hybrid neuroevolutionary system for dayahead price forecasting of electricity markets	hybrid neuroevolutionary system
+artificial intelligent analyzer for mechanical properties of rolled steel bar by using neural networks	artificial intelligent analyzer
+artificial intelligent analyzer for mechanical properties of rolled steel bar by using neural networks	rolled steel bar
+an exact algorithm for the singlemachine total weighted tardiness problem with sequencedependent setup times	sequencedependent setup times
+pricing policies under direct vs indirect channel competition and national vs store brand competition	supply chain management
+comparing traditional and fuzzyset solutions to q r inventory systems with discrete leadtime distributions	q r systems
+a partition approach for the restoration of camera images of planar and curled document	document image analysis
+a partition approach for the restoration of camera images of planar and curled document	document image rectification
+a partition approach for the restoration of camera images of planar and curled document	optical character recognition
+a partition approach for the restoration of camera images of planar and curled document	morphological image processing
+a least squares coupling method with finite elements and boundary elements for transmission problems	least squares methods
+the perceptive workbench computervisionbased gesture tracking object tracking and 3d reconstruction for augmented desks	3d object reconstruction
+high quality speech synthesis based on the reproduction of the randomness in speech signals	rulebased speech synthesis
+high quality speech synthesis based on the reproduction of the randomness in speech signals	mixed excitation scheme
+high quality speech synthesis based on the reproduction of the randomness in speech signals	random fractal fluctuation
+homogeneous stressstrain states computed by 3dstress algorithms of fecodes application to material parameter identification	material parameter identification
+feature extraction and recognition of epileptiform activity in eeg by combining pca with apen	principal component analysis
+feature extraction and recognition of epileptiform activity in eeg by combining pca with apen	discrete wavelet transform
+dutycon a dynamic dutycycle control approach to endtoend delay guarantees in wireless sensor networks	wireless sensor networks
+integrating dominance properties with genetic algorithms for parallel machine scheduling problems with setup times	unrelated parallel machine
+a discrete fully recurrent network of sigmoid units for associative memory and pattern classification	fully recurrent networks
+edge shade and mixed range detection by fuzzy gaussian filter for an autonomous robot	fuzzy gaussian filter
+edge shade and mixed range detection by fuzzy gaussian filter for an autonomous robot	mobile robot vision
+mortality assessment in intensive care units via adverse events using artificial neural networks	artificial neural networks
+controlling physical objects via the internet using the arduino platform over 802154 networks	open source hardware
+controlling physical objects via the internet using the arduino platform over 802154 networks	wireless sensor network
+data fusion of multisensor for iot precise measurement based on improved pso algorithms	internet of things
+data fusion of multisensor for iot precise measurement based on improved pso algorithms	particle swarm optimization
+data fusion of multisensor for iot precise measurement based on improved pso algorithms	wireless sensor network
+a comprehensive agentbased architecture for intelligent information retrieval in a distributed heterogeneous environment	heterogeneous data sources
+finitetime synchronization of chaotic neural networks with mixed timevarying delays and stochastic disturbance	mixed timevarying delays
+a dynamic rescheduling algorithm for resource management in large scale dependable distributed systems	dependable distributed systems
+application of a hybrid genetic algorithm and neural network approach in activitybased costing	artificial neural networks
+application of a hybrid genetic algorithm and neural network approach in activitybased costing	cost estimating relationships
+analysis of superframe adjustment and beacon transmission for ieee 802154 cluster tree networks	wireless sensor network
+analysis of superframe adjustment and beacon transmission for ieee 802154 cluster tree networks	personal area network
+analysis of superframe adjustment and beacon transmission for ieee 802154 cluster tree networks	cluster tree topology
+an efficient genetic algorithm for hybrid flow shop scheduling with multiprocessor task problems	hybrid flow shop
+an efficient genetic algorithm for hybrid flow shop scheduling with multiprocessor task problems	design of experiment
+on the scaling laws of dense wireless sensor networks the data gathering channel	distributed sourcechannel coding
+on the scaling laws of dense wireless sensor networks the data gathering channel	the manytoone channel
+on the scaling laws of dense wireless sensor networks the data gathering channel	the separation principle
+testing restorable systems formal definition and heuristic solution based on river formation dynamics	minimum load sequence
+testing restorable systems formal definition and heuristic solution based on river formation dynamics	river formation dynamics
+imageguided intraoperative cortical deformation recovery using game theory application to neocortical epilepsy surgery	biomedical image processing
+evaluation on students and teachers acceptance of widget and cloudbased personal learning environments	personal learning environments
+evaluation on students and teachers acceptance of widget and cloudbased personal learning environments	open educational resources
+evaluation on students and teachers acceptance of widget and cloudbased personal learning environments	participatory research design
+rule extraction algorithm from support vector machines and its application to credit screening	support vector machines
+automatic pool allocation improving performance by controlling data structure layout in the heap	recursive data structure
+electronic marketplaces a literature review and a call for supply chain management research	supply chain management
+random assignment method based on genetic algorithms and its application in resource allocation	random assignment problem
+an improved algorithm for mining class association rules using the difference of obidsets	class association rules
+an improved algorithm for mining class association rules using the difference of obidsets	difference of obidsets
+a novel multiobjective particle swarm optimization with kmeans based global best selection strategy	particle swarm optimization
+a novel multiobjective particle swarm optimization with kmeans based global best selection strategy	symmetric mutation operator
+disintermediation of traditional chemical intermediary roles in the electronic businesstobusiness eb2b exchange world	supply chain management
+the university of alicantes institutional strategy to promote the open dissemination of knowledge	database management systems
+nonlinear performance of continuum mechanics based beam elements focusing on large twisting behaviors	finite element method
+particle swarm and bayesian networks applied to attribute selection for protein functional classification	naive bayes classifier
+the speaker identification by using genetic wavelet adaptive network based fuzzy inference system	turkish speech signal
+the speaker identification by using genetic wavelet adaptive network based fuzzy inference system	adaptive feature extraction
+a clustering study of a 7000 eu document inventory using mds and som	high dimensional data
+a study of invasive composition for the evolution of a health information system	invasive software composition
+a study of invasive composition for the evolution of a health information system	health information systems
+creating and sharing clinical decision support content with web 20 issues and examples	decision support systems
+creating and sharing clinical decision support content with web 20 issues and examples	decision support techniques
+creating and sharing clinical decision support content with web 20 issues and examples	hospital information systems
+creating and sharing clinical decision support content with web 20 issues and examples	medical records systems
+using text mining and sentiment analysis for online forums hotspot detection and forecast	online sports forums
+using text mining and sentiment analysis for online forums hotspot detection and forecast	support vector machine
+an end stage kidney disease predictor based on an artificial neural networks ensemble	neural networks ensemble
+exploring relationships between students interaction and learning with a haptic virtual biomolecular model	interactive learning environments
+an incremental approach for large displacement response of structures subjected to dynamic loads	finite element method
+an incremental approach for large displacement response of structures subjected to dynamic loads	mode superposition method
+fusing visual and clinical information for lung tissue classification in highresolution computed tomography	multimodal information fusion
+fusing visual and clinical information for lung tissue classification in highresolution computed tomography	contextual image analysis
+fusing visual and clinical information for lung tissue classification in highresolution computed tomography	support vector machines
+fusing visual and clinical information for lung tissue classification in highresolution computed tomography	waveletbased texture analysis
+fusing visual and clinical information for lung tissue classification in highresolution computed tomography	lung tissue classification
+fusing visual and clinical information for lung tissue classification in highresolution computed tomography	highresolution computed tomography
+fusing visual and clinical information for lung tissue classification in highresolution computed tomography	interstitial lung diseases
+feedback control architecture and design methodology for service delay guarantees in web servers	quality of service
+feedback control architecture and design methodology for service delay guarantees in web servers	proportional differentiated service
+a hybrid multiobjective rbfpso method for mitigating dos attacks in named data networking	named data networking
+a hybrid multiobjective rbfpso method for mitigating dos attacks in named data networking	intelligent hybrid algorithm
+a hybrid multiobjective rbfpso method for mitigating dos attacks in named data networking	rbf neural networks
+a hybrid multiobjective rbfpso method for mitigating dos attacks in named data networking	particle swarm optimization
+a review of particle swarm optimization and its applications in solar photovoltaic system	particle swarm optimization
+a review of particle swarm optimization and its applications in solar photovoltaic system	pso parameters control
+on the jdivergence of intuitionistic fuzzy sets with its application to pattern recognition	intuitionistic fuzzy set
+decoupled linear estimation of affine geometric deformations and nonlinear intensity transformations of images	nonlinear range registration
+integrative connectionist learning systems inspired by nature current models future trends and challenges	connectionist learning systems
+integrative connectionist learning systems inspired by nature current models future trends and challenges	artificial neural networks
+integrative connectionist learning systems inspired by nature current models future trends and challenges	spiking neural networks
+integrative connectionist learning systems inspired by nature current models future trends and challenges	multiple task learning
+integrative connectionist learning systems inspired by nature current models future trends and challenges	genespiking neural networks
+integrative connectionist learning systems inspired by nature current models future trends and challenges	computational neurogenetic modeling
+linear time dynamicprogramming algorithms for new classes of restricted tsps a computational study	traveling salesman problem
+haptic feedback and students learning about levers unraveling the effect of simulated touch	interactive learning environments
+imagegrouper a grouporiented user interface for contentbased image retrieval and digital image arrangement	contentbased image retrieval
+cooperative method development combining qualitative empirical research with method technique and process improvement	cooperative method development
+control of a hydrolyzer in an oleochemical plant using neural network based controllers	direct inverse controller
+control of a hydrolyzer in an oleochemical plant using neural network based controllers	internal model controller
+a semiautomated method for hexahedral mesh construction of human vertebrae from ct scans	finite element modelling
+a bottomup design approach of critically sampled contourlet transform for efficient image representation	directional filter bank
+distributed and robust parameter estimation of iir systems using incremental particle swarm optimization	distributed parameter estimation
+distributed and robust parameter estimation of iir systems using incremental particle swarm optimization	iir system identification
+distributed and robust parameter estimation of iir systems using incremental particle swarm optimization	particle swarm optimization
+a neural network approach to the diagnosis of morbidity outcomes in trauma care	diagnostic decision aids
+a multiobjective evolutionary algorithm for scheduling and inspection planning in software development projects	multiple objective programming
+an analysis of the performance of artificial neural network technique for apple classification	scaled conjugate gradient
+an analysis of the performance of artificial neural network technique for apple classification	artificial neural network
+an analysis of the performance of artificial neural network technique for apple classification	mean square error
+parallel ssor preconditioning implemented on dynamic smp clusters with communication on the fly	preconditioned conjugate gradient
+parallel ssor preconditioning implemented on dynamic smp clusters with communication on the fly	finite element method
+counterfactual reasoning as a key for explaining adaptive behavior in a changing environment	actr cognitive model
+incremental learning patchbased bag of facial words representation for face recognition in videos	bag of words
+secure geolocalization of wireless sensor nodes in the presence of misbehaving anchor nodes	wireless sensor networks
+connectionist approaches to inexact reasoning and learningsystems for executive and decisionsupport conceptual design	backward propagation chaining
+optimal allocation of multistate elements in linear consecutively connected systems with vulnerable nodes	universal generating function
+evaluation of genetic algorithms for mesh router nodes placement in wireless mesh networks	wireless mesh networks
+wavelet transform on pixel distribution of rows column of bmp image for cbir	mean standard deviation
+analytical modeling and mitigation techniques for the energy hole problem in sensor networks	energy hole problem
+analytical modeling and mitigation techniques for the energy hole problem in sensor networks	manytoone communication model
+routing and wavelength converter allocation in wdm networks a multiobjective evolutionary optimization approach	wavelength converter allocation
+fault tolerance in the framework of support vector machines based model predictive control	model predictive control
+fault tolerance in the framework of support vector machines based model predictive control	support vector machines
+fault tolerance in the framework of support vector machines based model predictive control	fault tolerant control
+the minimum bandwidth required at each time slot of the fast broadcasting scheme	fast broadcasting scheme
+analysis and evaluation in a welding process applying a redesigned radial basis function	radial basis function
+methods for the combination of kernel matrices within a support vector framework	combination of kernels
+methods for the combination of kernel matrices within a support vector framework	support vector machines
+rapid 3d face reconstruction by fusion of sfs and local morphable model	3d face modeling
+rapid 3d face reconstruction by fusion of sfs and local morphable model	3d morphable model
+rapid 3d face reconstruction by fusion of sfs and local morphable model	radial basis function
+efficient path planning and data gathering protocols for the wireless sensor network	wireless sensor network
+efficient path planning and data gathering protocols for the wireless sensor network	data gathering protocols
+a lowcost screening method for the detection of the carotid artery diseases	carotid artery diseases
+a lowcost screening method for the detection of the carotid artery diseases	doppler signal classification
+a lowcost screening method for the detection of the carotid artery diseases	artificial neural networks
+solving a reverse supply chain design problem by improved benders decomposition schemes	supply chain management
+a robust approach based on conditional valueatrisk measure to statistical learning problems	support vector machine
+design optimization of laserinduced microbridges for low resistance interline connections in ics	finite element method
+the role of electronic medical record in care delivery in developing countries	medical record systems
+the role of electronic medical record in care delivery in developing countries	hospital information systems
+pfhc a clustering algorithm based on data partitioning for unevenly distributed datasets	unevenly distributed dataset
+a general framework of multipopulation methods with clustering in undetectable dynamic environments	dynamic optimization problem
+a general framework of multipopulation methods with clustering in undetectable dynamic environments	multiple population methods
+tlb improvements for chip multiprocessors intercore cooperative prefetchers and shared lastlevel tlbs	translation lookaside buffer
+tlb improvements for chip multiprocessors intercore cooperative prefetchers and shared lastlevel tlbs	shared lastlevel tlb
+prioritybased medium access control protocol for providing qos in wireless sensor networks	wireless sensor networks
+an investment decision model for the optimal placement of phasor measurement units	phasor measurement unit
+sensitivity analysis for biometric systems a methodology based on orthogonal experiment designs	videobased biometric system
+low resolution degraded document recognition using neural networks and hidden markov models	hidden markov models
+decisions about critical events in devicerelated scenarios as a function of expertise	institutional decision making
+structure and dynamics of a predicted ferredoxinlike selenoprotein in japanese encephalitis virus	japanese encephalitis virus
+incorporating quantity discounts and their inventory impacts into the centralized purchasing decision	supply chain management
+robust feature extraction for speaker recognition based on constrained nonnegative tensor factorization	nonnegative tensor factorization
+an efficient parallel implementation of the everglades landscape fire model using checkpointing	message passing interface
+an efficient parallel implementation of the everglades landscape fire model using checkpointing	network of workstations
+superconvergence of coupling techniques in combined methods for elliptic equations with singularities	finite difference method
+superconvergence of coupling techniques in combined methods for elliptic equations with singularities	finite element method
+a scalable approach for reliable downstream data delivery in wireless sensor networks	wireless sensor networks
+a scalable approach for reliable downstream data delivery in wireless sensor networks	reliable transport protocols
+a method for noiserobust contextaware pattern discovery and recognition from categorical sequences	categorical sequence analysis
+a method for noiserobust contextaware pattern discovery and recognition from categorical sequences	weakly supervised learning
+analysis of electricity consumption profiles in public buildings with dimensionality reduction techniques	electricity consumption profiles
+upper and lower approximation models in interval regression using regression quantile techniques	trapezoidal fuzzy model
+verifying and comparing finite state machines for systems that have distributed interfaces	finite state machine
+verifying and comparing finite state machines for systems that have distributed interfaces	distributed test architecture
+ordered packet scheduling in wireless ad hoc networks mechanisms and performance analysis	ad hoc networks
+a genetic algorithm approach to multiagent itinerary planning in wireless sensor networks	wireless sensor networks
+rfid data processing in supply chain management using a path encoding scheme	supply chain management
+rfid data processing in supply chain management using a path encoding scheme	path encoding scheme
+designing of an intelligent selfadaptive model for supply chain ordering management system	agent based simulation
+designing of an intelligent selfadaptive model for supply chain ordering management system	markov decision process
+modeling of permeability and compaction characteristics of soils using evolutionary polynomial regression	optimum moisture content
+modeling of permeability and compaction characteristics of soils using evolutionary polynomial regression	maximum dry density
+a simple method for improving local binary patterns by considering nonuniform patterns	local binary patterns
+a simple method for improving local binary patterns by considering nonuniform patterns	local ternary patterns
+a simple method for improving local binary patterns by considering nonuniform patterns	support vector machines
+simulation of fractionally damped mechanical systems by means of a newmarkdiffusive scheme	finite element method
+detecting similarities in virtual machine behavior for cloud monitoring using smoothed histograms	virtual machine clustering
+integrating information retrieval and data mining to discover project team coordination patterns	sequential pattern analysis
+dynamic fault diagnosis using extended matrix and tensor locality preserving discriminant analysis	dynamic fault diagnosis
+dynamic fault diagnosis using extended matrix and tensor locality preserving discriminant analysis	local structure preserving
+an adaptive twolevel management for the flash translation layer in embedded systems	flash translation layer
+smooth and efficient realtime video transport in the presence of wireless errors	video transport protocol
+a comparative evaluation of modeling approaches to the labor shift scheduling problem	labor shift scheduling
+a comparative evaluation of modeling approaches to the labor shift scheduling problem	service operations management
+unintended transformations of clinical relations with a computerized physician order entry system	computer order entry
+finite elements on locally uniform meshes for convectiondiffusion problems with boundary layers	finite element method
+finite elements on locally uniform meshes for convectiondiffusion problems with boundary layers	locally uniform meshes
+modelling the guaranteed qos for wireless sensor networks a network calculus approach	wireless sensor networks
+modelling the guaranteed qos for wireless sensor networks a network calculus approach	quality of service
+ntr calibration in nonlinear systems different pls approaches and artificial neural networks	artificial neural networks
+adaptive gossip protocols managing security and redundancy in dense ad hoc networks	ad hoc networks
+constitutive relations for nonlinear modeling of sisige hbts using an ann model	hetrojunction bipolar transistor
+a systematic fuzzy rule based approach for fault classification in transmission lines	dtfuzzy rule base
+a systematic fuzzy rule based approach for fault classification in transmission lines	heuristic fuzzy system
+the motor extended kalman filter a geometric approach for rigid motion estimation	kalman filter techniques
+the motor extended kalman filter a geometric approach for rigid motion estimation	extended kalman filter
+tcom an innovative data structure for mining association rules among infrequent items	association rule mining
+transparent boundary conditions for a wideangle approximation of the oneway helmholtz equation	transparent boundary conditions
+transparent boundary conditions for a wideangle approximation of the oneway helmholtz equation	finite element method
+an integer linear programming based approach for parallelizing applications in onchip multiprocessors	integer linear program
+on a block monotone domain decomposition algorithm for a nonlinear reactiondiffusion problem	nonoverlapping domain decomposition
+on a block monotone domain decomposition algorithm for a nonlinear reactiondiffusion problem	block iterative scheme
+probabilistic analysis of upper bounds for 2connected distance kdominating sets in graphs	connected dominating set
+realtime scheduling on heterogeneous systemonchip architectures using an optimised artificial neural network	heterogeneous multiprocessor architecture
+realtime scheduling on heterogeneous systemonchip architectures using an optimised artificial neural network	artificial neural network
+a shapebased approach to the segmentation of medical imagery using level sets	binary image alignment
+a shapebased approach to the segmentation of medical imagery using level sets	cardiac mri segmentation
+a shapebased approach to the segmentation of medical imagery using level sets	implicit shape representation
+a shapebased approach to the segmentation of medical imagery using level sets	medical image segmentation
+a shapebased approach to the segmentation of medical imagery using level sets	parametric shape model
+a shapebased approach to the segmentation of medical imagery using level sets	principal component analysis
+a shapebased approach to the segmentation of medical imagery using level sets	statistical shape model
+image denoising in the wavelet domain using a new adaptive thresholding function	thresholding neural networks
+type2 fuzzy logic aggregation of multiple fuzzy controllers for airplane flight control	type2 fuzzy logic
+physiologybased affect recognition for computerassisted intervention of children with autism spectrum disorder	support vector machines
+a novel framework for multiclass classification via ternary smooth support vector machine	support vector machine
+a novel framework for multiclass classification via ternary smooth support vector machine	ternary voting games
+hierarchical fuzzy control for caxis of cnc turning centers using genetic algorithms	hierarchical fuzzy control
+multiagent based modeling and simulation of microscopic traffic in virtual reality system	microscopic traffic behavior
+towards human motion capture from a camera mounted on a mobile robot	human motion capture
+twophase genetic local search algorithm for the multimode resourceconstrained project scheduling problem	resourceconstrained project scheduling
+combnetiii a support vector machine based large scale classifier with probabilistic framework	support vector machines
+a genetic algorithm for the freight consolidation problem with onedimensional container loading	mathematical programming model
+performance evaluation of capacity request and allocation mechanisms for hiperlan2 wireless lans	quality of service
+supporting contentbased image retrieval and computeraided diagnosis systems with association rulebased techniques	contentbased image retrieval
+identifying scientific artefacts in biomedical literature the evidence based medicine use case	evidence based medicine
+approximating maximum integral flows in wireless sensor networks via weighteddegree constrained kflows	wireless sensor networks
+learning mixture models with support vector machines for sequence classification and segmentation	online handwriting recognition
+learning mixture models with support vector machines for sequence classification and segmentation	hidden markov models
+learning mixture models with support vector machines for sequence classification and segmentation	support vector machine
+prediction of potential hit song and musical genre using artificial neural networks	hit song prediction
+prediction of potential hit song and musical genre using artificial neural networks	musical genre classification
+a reinforcement learning framework for online data migration in hierarchical storage systems	markov decision process
+gpuacceleration of stiffness matrix calculation and efficient initialization of efg meshless methods	stiffness matrix assembly
+directionofarrival estimation based on particle swarm optimization searching approaches for cdma signals	particle swarm optimization
+aterms for manipulation and exchange of structured data its all about sharing	abstract syntax trees
+aterms for manipulation and exchange of structured data its all about sharing	maximal subterm sharing
+aterms for manipulation and exchange of structured data its all about sharing	intermediate data format
+aterms for manipulation and exchange of structured data its all about sharing	abstract data type
+efficient and provably secure aggregation of encrypted data in wireless sensor networks	secure data aggregation
+efficient and provably secure aggregation of encrypted data in wireless sensor networks	wireless sensor networks
+stochastic combined heat and power dispatch based on multiobjective particle swarm optimization	particle swarm optimization
+an efficient multilayered shielded microwave circuit analysis method based on neural networks	shielded multilayered circuits
+an efficient multilayered shielded microwave circuit analysis method based on neural networks	radialbasisfunction neural networks
+modeling multiple human operators in the supervisory control of heterogeneous unmanned vehicles	discrete event simulation
+keyphrase extraction in biomedical publications using mesh and intraphrase word cooccurrence information	intraphrase word cooccurrence
+a survey of powersaving techniques on data centers and content delivery networks	content delivery network
+a survey of powersaving techniques on data centers and content delivery networks	data center network
+stability of dual circular tunnels in cohesivefrictional soil subjected to surcharge loading	dual circular tunnels
+distributed computing paradigms for collaborative signal and information processing in sensor networks	distributed computing paradigm
+improved accuracy in regularization models of incompressible flow via adaptive nonlinear filtering	reduced order modeling
+scattering features for lung cancer detection in fibered confocal fluorescence microscopy images	local binary pattern
+scattering features for lung cancer detection in fibered confocal fluorescence microscopy images	support vector machine
+face feature extraction and recognition based on discriminant subclasscenter manifold preserving projection	subclass discriminant analysis
+face feature extraction and recognition based on discriminant subclasscenter manifold preserving projection	discriminant smpp dsmpp
+designing optimal cell factories integer programming couples elementary mode analysis with regulation	minimal cut sets
+discovery of contextspecific ranking functions for effective information retrieval using genetic programming	intelligent information retrieval
+discovery of contextspecific ranking functions for effective information retrieval using genetic programming	contextual information retrieval
+distributed dynamic scheduling for endtoend rate guarantees in wireless ad hoc networks	ad hoc networks
+fuzzy rule optimization for online auction frauds detection based on genetic algorithm	social network analysis
+a performance comparative study on the implementation methods for ofdma crosslayer optimization	semiimplicit root sir
+detection of gastric dysrhythmia using wt and ann in diabetic gastroparesis patients	artificial neural network
+detection of gastric dysrhythmia using wt and ann in diabetic gastroparesis patients	gastric electrical dysrhythmia
+visualization of randomly ordered numeric data sets using spherical selforganizing feature maps	interactive data analysis
+visualization of randomly ordered numeric data sets using spherical selforganizing feature maps	scientific data visualization
+molecular modeling and dynamics studies of cytidylate kinase from mycobacterium tuberculosis h37rv	cytidine 5 monophosphate
+molecular modeling and dynamics studies of cytidylate kinase from mycobacterium tuberculosis h37rv	enzyme substrate specificity
+constructing lz78 tries and position heaps in linear time for large alphabets	lempelziv 78 factorization
+an effective new island model genetic algorithm for job shop scheduling problem	job shop scheduling
+an effective new island model genetic algorithm for job shop scheduling problem	parallel genetic algorithm
+fuzzy logic based layers 2 and 3 handovers in ieee 80216e network	layer 2 handover
+fuzzy logic based layers 2 and 3 handovers in ieee 80216e network	layer 3 handover
+enabling efficient reprogramming through reduction of executable modules in networked embedded systems	modules and interfaces
+enabling efficient reprogramming through reduction of executable modules in networked embedded systems	wireless sensor network
+a neural network based multiclassifier system for gene identification in dna sequences	neural network optimization
+support vector machines with genetic fuzzy feature transformation for biomedical data classification	support vector machines
+fault diagnosis of rotating machinery based on multiple anfis combination with gas	empirical mode decomposition
+a case study of applying boosting naive bayes to claim fraud diagnosis	claim fraud detection
+evaluation of suppliers environmental management performances by a fuzzy compromise ranking technique	multiple criteria analysis
+evaluation of suppliers environmental management performances by a fuzzy compromise ranking technique	supplier environmental performance
+sensor networks with random link failures distributed filtering for ts fuzzy systems	distributed fuzzy filtering
+sensor networks with random link failures distributed filtering for ts fuzzy systems	random link failures
+sensor networks with random link failures distributed filtering for ts fuzzy systems	ts fuzzy systems
+digital hyperplane recognition in arbitrary fixed dimension within an algebraic computation model	digital plane recognition
+sensor signal and image informatics state of the art and current topics	automatic data processing
+sensor signal and image informatics state of the art and current topics	medical informatics applications
+lower bounds on lifetime of ultra wide band wireless sensor networks	wireless sensor network
+lower bounds on lifetime of ultra wide band wireless sensor networks	ultra wide band
+performance evaluation of a threshold policy for scheduling readers and writers	full capacity disciplines
+performance evaluation of a threshold policy for scheduling readers and writers	markov chain model
+performance evaluation of a threshold policy for scheduling readers and writers	readers and writers
+performance evaluation of a threshold policy for scheduling readers and writers	vacationing server model
+maintenance of service oriented architecture composite applications static and dynamic support	composite soa applications
+maintenance of service oriented architecture composite applications static and dynamic support	soa software maintenance
+maintenance of service oriented architecture composite applications static and dynamic support	feature sequence viewer
+development of a casebased system for grouping diagnoses in general practice	episode of care
+development of a casebased system for grouping diagnoses in general practice	computerised medical record
+modeling and verifying probabilistic multiagent systems using knowledge and social commitments	probabilistic model checking
+intrauterine growth restriction iugr risk decision based on support vector machines	intrauterine growth restriction
+intrauterine growth restriction iugr risk decision based on support vector machines	amniotic fluid index
+intrauterine growth restriction iugr risk decision based on support vector machines	support vector machines
+practical experiences in modelling software engineering practices the project patterns approach	software process improvement
+energyefficient h h filtering over wireless networked systemsa markovian system approach	wireless sensor networks
+application of stochastic finite element method to optimal design of structures	direct differentiation method
+estimation of multifrequency signal parameters by frequency domain nonlinear least squares	discrete fourier transform
+estimation of multifrequency signal parameters by frequency domain nonlinear least squares	nonlinear least squares
+transmitting to colocated users in wireless ad hoc and sensor networks	ad hoc networks
+a nonintrusive method for estimating motor efficiency using vibration signature analysis	vibration signature analysis
+xlp a crosslayer protocol for efficient communication in wireless sensor networks	medium access control
+xlp a crosslayer protocol for efficient communication in wireless sensor networks	wireless sensor networks
+a distributed transmission power control protocol for mobile ad hoc networks	ad hoc networks
+a distributed transmission power control protocol for mobile ad hoc networks	energy efficient routes
+regarding the rankings of optimization heuristics based on artificiallyconstructed benchmark functions	particle swarm optimization
+adaptive aggregation tree transformation for energyefficient query processing in sensor networks	dynamic route selection
+adaptive aggregation tree transformation for energyefficient query processing in sensor networks	wireless sensor networks
+an integrated paleomagnetic analysis program for stratigraphy labs and research projects	lambert equalarea projection
+an integrated paleomagnetic analysis program for stratigraphy labs and research projects	principal component analysis
+detecting the change of customer behavior based on decision tree analysis	internet shopping mall
+the design of a hardware recognizer for utilization in scanning operations	finite state automation
+tree feature extraction using image data obtained through virtual field server	virtual field server
+multivariate calibration model from overlapping voltammetric signals employing wavelet neural networks	wavelet neural network
+a note on the universal approximation capability of support vector machines	support vector machine
+a note on the universal approximation capability of support vector machines	universal approximation capability
+a novel marginbased twin support vector machine with unity norm hyperplanes	support vector machines
+a novel marginbased twin support vector machine with unity norm hyperplanes	unity norm hyperplanes
+optimisation of maintenance concept choice using riskdecision factor a case study	fmea method modification
+influence of torsion on the inelastic response of threedimensional rc frames	finite element method
+a protocol for reliably flexibly and efficiently making agreement among peers	p2p overlay networks
+translations of service level agreement in systems based on serviceoriented architectures	complex service optimization
+translations of service level agreement in systems based on serviceoriented architectures	quality of service
+spectral clustering independent component analysis for tissue classification from brain mri	magnetic resonance imaging
+spectral clustering independent component analysis for tissue classification from brain mri	spectral angle mapping
+spectral clustering independent component analysis for tissue classification from brain mri	independent component analysis
+spectral clustering independent component analysis for tissue classification from brain mri	support vector machine
+a simple fuzzy clustering approach sfca for supporting for shortrange positioning	shortrange communication dsrc
+an idlenvi implementation of the fftbased algorithm for automatic image registration	envi user function
+energy minimization by exploiting data redundancy in realtime wireless sensor networks	wireless sensor networks
+energy minimization by exploiting data redundancy in realtime wireless sensor networks	dynamic voltage scaling
+energy minimization by exploiting data redundancy in realtime wireless sensor networks	dynamic modulation scaling
+hierarchical cooperation in ad hoc networks optimal clustering and achievable throughput	ad hoc networks
+effects of disciplinary uncertainty on multiobjective optimization in aircraft conceptual design	multidisciplinary design optimization
+a hierarchical knowledgebased environment for linguistic modeling models and iterative methodology	fuzzy rulebased systems
+a hierarchical knowledgebased environment for linguistic modeling models and iterative methodology	hierarchical linguistic partitions
+a hierarchical knowledgebased environment for linguistic modeling models and iterative methodology	hierarchical knowledge base
+answering regular path queries in expressive description logics via alternating treeautomata	expressive description logics
+an agent based multicultural tour guide system with nonverbal user interface	embodied conversational agent
+optimizing spatial spectral patterns jointly with channel configuration for braincomputer interface	braincomputer interface bci
+optimizing spatial spectral patterns jointly with channel configuration for braincomputer interface	spatial spectral pattern
+efficient arnolditype algorithms for rational eigenvalue problems arising in fluidsolid systems	rational eigenvalue problem
+mono and multiobjective formulations for the indoor wireless lan planning problem	wireless networks planning
+an eda tool for implementation of low power and secure cryptochips	side channel attack
+classification of healthcare data using genetic fuzzy logic system and wavelets	healthcare data classification
+code size reduction for array intensive applications on digital signal processors	address register allocation
+dimensionality reduction in automatic knowledge acquisition a simple greedy search approach	curse of dimensionality
+peer profile based trust model for p2p systems using genetic algorithm	rule base systems
+implementation and utilisation of a gridenabled problem solving environment in matlab	engineering design optimisation
+implementation and utilisation of a gridenabled problem solving environment in matlab	computational fluid dynamics
+implementation and utilisation of a gridenabled problem solving environment in matlab	problem solving environment
+a bandwidth allocation scheme for compositional realtime systems with periodic resources	compositional realtime systems
+a bandwidth allocation scheme for compositional realtime systems with periodic resources	periodic resource model
+electromagnetic interrogation and the doppler shift using the method of mappings	electromagnetic doppler shift
+electromagnetic interrogation and the doppler shift using the method of mappings	method of mappings
+genetic algorithm with ant colony optimization gaaco for multiple sequence alignment	multiple sequence alignment
+genetic algorithm with ant colony optimization gaaco for multiple sequence alignment	ant colony optimization
+joint admission and power control for qualityofservice in the wireless downlink	wireless downlink networks
+a path analysis of social networks telecommunication and social activitytravel patterns	structural equation modelling
+inferring gene regulatory networks via nonlinear statespace models and exploiting sparsity	gene regulatory network
+artificial bee colony algorithm for solving sequencedependent disassembly line balancing problem	artificial bee colony
+stochastic resource allocation using a predictorbased heuristic for optimization via simulation	optimization via simulation
+neurofuzzy synergism to the intelligent system for edge detection and enhancement	fuzzy neural network
+neurofuzzy synergism to the intelligent system for edge detection and enhancement	hopfield neural network
+the value of postponing online fulfillment decisions in multichannel retailetail organizations	dual sales channel
+the value of postponing online fulfillment decisions in multichannel retailetail organizations	supply chain management
+a time series representation model for accurate and fast similarity detection	time series data
+nonlinear dimensional variation analysis for sheet metal assemblies by contact modeling	dimensional variation analysis
+nonlinear dimensional variation analysis for sheet metal assemblies by contact modeling	finite element method
+improving dynamic and distributed congestion control in vehicular ad hoc networks	multiobjective tabu search
+improving dynamic and distributed congestion control in vehicular ad hoc networks	quality of service
+automated identification of analyzable metaphase chromosomes depicted on microscopic digital images	artificial neural network
+automated identification of analyzable metaphase chromosomes depicted on microscopic digital images	microscopic digital images
+taskbased system load balancing in cloud computing using particle swarm optimization	particle swarm optimization
+taskbased system load balancing in cloud computing using particle swarm optimization	virtual machine migration
+supervised committee machine with artificial intelligence for prediction of fluoride concentration	artificial neural network
+supervised committee machine with artificial intelligence for prediction of fluoride concentration	ground water quality
+reduction strategies and exact algorithms for the disjunctively constrained knapsack problem	branch and bound
+feature selection for a cooperative coevolutionary classifier in liver fibrosis diagnosis	liver fibrosis staging
+foundational contributions of k asai and h tanaka to fuzzy optimization	fuzzy linear programming
+optical wireless network convergence in support of energyefficient mobile cloud services	mobile cloud computing
+optical wireless network convergence in support of energyefficient mobile cloud services	virtual infrastructure planning
+enhanced genetic algorithmbased fuzzy multiobjective strategy to multiproduct batch plant design	net present value
+joint iterative beamforming and power adaptation for mimo ad hoc networks	ad hoc networks
+a simulation framework for the performance assessment of shopfloor control systems	shopfloor control software
+health monitoring of frp using acoustic emission and artificial neural networks	artificial neural networks
+admissible fields and error estimation for acoustic fea with low wavenumbers	finite element method
+a twostage gene selection scheme utilizing mrmr filter and ga wrapper	support vector machine
+a twostage gene selection scheme utilizing mrmr filter and ga wrapper	naive bayes classifier
+an application of formal analysis to software in a faulttolerant environment	formal analysis methodology
+a robust algorithm for approximate compatible observability dont care codc computation	multilevel logic optimization
+a kernelbased fuzzy greedy multiple hyperspheres covering algorithm for pattern classification	hyperspheres covering algorithms
+a kernelbased fuzzy greedy multiple hyperspheres covering algorithm for pattern classification	support vector machines
+utility maxmin fair resource allocation for communication networks with multipath routing	network flow control
+utility maxmin fair resource allocation for communication networks with multipath routing	utility maxmin fairness
+utility maxmin fair resource allocation for communication networks with multipath routing	multipath communication networks
+a system level design methodology for the optimization of heterogeneous multiprocessors	image processing algorithms
+a system level design methodology for the optimization of heterogeneous multiprocessors	parametrizable processor modules
+collusion resilient spread spectrum watermarking in mband wavelets using gafuzzy hybridization	spread spectrum watermarking
+accurate location estimation of sensor node using received signal strength measurements	wireless sensor networks
+accurate location estimation of sensor node using received signal strength measurements	least square calibration
+an intelligent system for the detection and interpretation of sleep apneas	decision support systems
+an intelligent system for the detection and interpretation of sleep apneas	computers in medicine
+numerical calculation of an asymmetric supply function equilibrium with capacity constraints	or in energy
+numerical calculation of an asymmetric supply function equilibrium with capacity constraints	supply function equilibrium
+a fuzzy expert system architecture for capability assessments in skillbased environments	fuzzy expert system
+fuzzy logic power system stabilizer based on genetically optimized adaptive network	fuzzy logic control
+evaluating performance of twohop routing in dtn based on homemeg model	delay tolerant networks
+bulapay a novel web service based thirdparty payment system for ecommerce	thirdparty payment system
+a game theoretic framework for power control in wireless sensor networks	wireless sensor network
+a game theoretic framework for power control in wireless sensor networks	distributed power control
+average message delivery time for smallworld networks in the continuum limit	message delivery time
+a new design for endtoend proportional loss differentiation in ip networks	quality of service
+a new spatial ip assignment method for ipbased wireless sensor networks	wireless sensor networks
+a new spatial ip assignment method for ipbased wireless sensor networks	wireless mesh networks
+a new fitness function of a genetic algorithm for routing applications	building block hypothesis
+a new approach for resolving a supplier selection and evaluation problem	fuzzy multicriteria method
+a new approach for resolving a supplier selection and evaluation problem	decision making aid
+a new approach for resolving a supplier selection and evaluation problem	selection and evaluation
+fluidstructure interaction for nonconforming interfaces based on a dual mortar formulation	dual lagrange multipliers
+researches on scheme of pairwise key establishment for distributed sensor networks	hierarchical hypercube model
+a novel human computer interaction aware algorithm to minimize energy consumption	human computer interaction
+problemstate representations in a hyperheuristic approach for the 2d irregular bpp	problem state representation
+automated unique input output sequence generation for conformance testing of fsms	finite state machine
+structured methodology for supplier selection and evaluation in a supply chain	supply chain management
+analog genetic encoding for the evolution of circuits and networks	analog circuit synthesis
+analog genetic encoding for the evolution of circuits and networks	analog network synthesis
+analog genetic encoding for the evolution of circuits and networks	neural network synthesis
+detecting interaction above digital tabletops using a single depth camera	depth sensing cameras
+partial joint processing with efficient backhauling using particle swarm optimization	particle swarm optimization
+adapting modularity during learning in cooperative coevolutionary recurrent neural networks	recurrent neural networks
+facilitating an ant colony algorithm for multiobjective dataintensive service provision	dataintensive service composition
+facilitating an ant colony algorithm for multiobjective dataintensive service provision	quality of service
+the vehicle routing problem with time windows and temporal dependencies	generalized precedence constraints
+ar interfacing with prototype 3d applications based on usercentered interactivity	3d application prototyping
+featurebased image registration by means of the chc evolutionary algorithm	iterative closest point
+numerical well model for nondarcy flow through isotropic porous media	mixed finite element
+the coveragecontrol optimization in sensor network subject to sensing area	wireless sensor networks
+a simple and communicationefficient omega algorithm in the crashrecovery model	omega failure detector
+radio link quality estimation in wireless sensor networks a survey	link quality estimation
+radio link quality estimation in wireless sensor networks a survey	wireless sensor networks
+on boundary recognition without location information in wireless sensor networks	unit disk graphs
+on boundary recognition without location information in wireless sensor networks	wireless sensor networks
+an energy level based routing protocol in ad hoc networks	ad hoc networks
+a robust method for eye features extraction on color image	eye feature detection
+a robust method for eye features extraction on color image	principal component analysis
+a robust method for eye features extraction on color image	gabor feature space
+recognition of electromagnetic leakage information from computer radiation with svm	support vector machine
+a selftuning power system stabilizer based on artificial neural network	power system stabilizer
+a selftuning power system stabilizer based on artificial neural network	artificial neural network
+a selftuning power system stabilizer based on artificial neural network	small signal stability
+investigating member commitment to virtual communities using an integrated perspective	social networking sites
+chasing the weakest system model for implementing omega and consensus	faulttolerant distributed consensus
+an efficient multilabel support vector machine with a zero label	support vector machine
+pomelo accurate and decentralized shortestpath distance estimation in social graphs	online social network
+pomelo accurate and decentralized shortestpath distance estimation in social graphs	graph coordinate system
+genetic algorithm for the design of molecules with desired properties	thrombin inhibitor screening
+genetic algorithm for the design of molecules with desired properties	computerassisted drug discovery
+genetic algorithm for the design of molecules with desired properties	de novo design
+performance evaluation of wireless cellular networks under more realistic assumptions	wireless cellular networks
+performance evaluation of wireless cellular networks under more realistic assumptions	call blocking probability
+qos mechanisms for the mac protocol of ieee 80211 wlans	medium access control
+qos mechanisms for the mac protocol of ieee 80211 wlans	quality of service
+qos mechanisms for the mac protocol of ieee 80211 wlans	connection admission control
+qos mechanisms for the mac protocol of ieee 80211 wlans	leakybucket constrained traffic
+adaptive network coding scheme for tcp over wireless sensor networks	wireless sensor networks
+segmented information dispersal sid data layouts for digital video servers	separated difference sets
+approximation algorithms for broadcasting in duty cycled wireless sensor networks	wireless sensor networks
+performance analysis of email systems under three types of attacks	information leakage probability
+maximal consistent extensions of information systems relative to their theories	maximal consistent extensions
+sparse multivariate function recovery with a small number of evaluations	error correcting coding
+probabilistic logic methods and some applications to biology and medicine	hierarchical bayesian networks
+probabilistic logic methods and some applications to biology and medicine	markov logic networks
+probabilistic logic methods and some applications to biology and medicine	probabilistic boolean networks
+probabilistic logic methods and some applications to biology and medicine	probabilistic graphical models
+fluid dynamics models and their applications in transportation and pricing	supply chain management
+fluid dynamics models and their applications in transportation and pricing	travel time functions
+a comparative study of local matching approach for face recognition	local matching method
+efficient algorithms for frequent pattern mining in manytask computing environments	association rule mining
+efficient algorithms for frequent pattern mining in manytask computing environments	frequent pattern mining
+artificial neural networks as supervised techniques for ftir microspectroscopic imaging	artificial neural network
+artificial neural networks as supervised techniques for ftir microspectroscopic imaging	hierarchical cluster analysis
+revisiting evolutionary fuzzy systems taxonomy applications new trends and challenges	evolutionary fuzzy systems
+scalingtranslation parameter estimation using genetic hough transform for background compensation	affine parameter estimation
+scalingtranslation parameter estimation using genetic hough transform for background compensation	global motion compensation
+scalingtranslation parameter estimation using genetic hough transform for background compensation	multiresolution hough transform
+scalingtranslation parameter estimation using genetic hough transform for background compensation	genetic hough transform
+particle methods for maximum likelihood estimation in latent variable models	latent variable models
+particle methods for maximum likelihood estimation in latent variable models	sequential monte carlo
+a benchmarking environment for performance evaluation of treebased rekeying algorithms	group rekeying algorithms
+a knowledge management system for seriesparallel availability optimization and design	knowledge management system
+estimation of california bearing ratio by using soft computing systems	optimum moisture content
+estimation of california bearing ratio by using soft computing systems	artificial neural networks
+comparison and selection of objective functions in multiobjective community detection	multiobjective evolutionary algorithm
+a structural nonlinear analysis workspace snaw based on meshless methods	finite element method
+using evolution to improve neural network learning pitfalls and solutions	age dependent plasticity
+the price of reverse factoring financing rates vs payment delays	supply chain management
+the price of reverse factoring financing rates vs payment delays	supply chain finance
+experimental analysis and characterization of a wireless sensor network environment	wireless sensor networks
+training spatially homogeneous fully recurrent neural networks in eigenvalue space	recurrent neural networks
+training spatially homogeneous fully recurrent neural networks in eigenvalue space	global asymptotic stability
+training spatially homogeneous fully recurrent neural networks in eigenvalue space	discrete fourier transform
+topological active volume 3d segmentation model optimized with genetic approaches	hybrid optimization algorithms
+topological active volume 3d segmentation model optimized with genetic approaches	topological active volumes
+detection of bone tumours in radiographic images using neural networks	feedforward neural network
+detection of bone tumours in radiographic images using neural networks	selforganising feature map
+a discrete particle swarm optimization algorithm for scheduling parallel machines	particle swarm optimization
+genetic algorithmbased heuristic for feature selection in credit risk assessment	credit risk assessment
+genetic algorithmbased heuristic for feature selection in credit risk assessment	incremental feature selection
+innetwork packet scheduling and rate allocation a content delivery perspective	active network nodes
+innetwork packet scheduling and rate allocation a content delivery perspective	content delivery networks
+innetwork packet scheduling and rate allocation a content delivery perspective	decentralized packet scheduling
+innetwork packet scheduling and rate allocation a content delivery perspective	lagrange multiplier method
+an integrated approach for operational knowledge acquisition of refuse incinerators	decision tree classification
+a novel attack to spatial cloaking schemes in locationbased services	internet of things
+using group genetic algorithm to improve performance of attribute clustering	grouping genetic algorithm
+fast automated segmentation of wrist bones in magnetic resonance images	magnetic resonance imaging
+fast automated segmentation of wrist bones in magnetic resonance images	watershed from markers
+a fast and accurate face detector based on neural networks	combination of models
+an empirical evaluation of knowledge transfer mechanisms for it projects	knowledge transfer mechanisms
+an empirical evaluation of knowledge transfer mechanisms for it projects	project success factors
+signal reconstruction in sensor networks with flat and clustered topologies	wireless sensor networks
+signal reconstruction in sensor networks with flat and clustered topologies	clustered network topology
+hand gesture recognition using a neural network shape fitting technique	skin color detection
+hand gesture recognition using a neural network shape fitting technique	ycbcr color space
+on finding the longest antisymmetric path in directed acyclic graphs	longest antisymmetric path
+on finding the longest antisymmetric path in directed acyclic graphs	directed acyclic graphs
+selection of cutting conditions for power constrained parallel machine scheduling	parallel machine scheduling
+hybrid computing techniques for fault detection and isolation a review	labscale tank system
+efficient semisupervised feature selection with noise insensitive trace ratio criterion	graph based learning
+evolutionary optimizationbased tuning of lowcost fuzzy controllers for servo systems	gravitational search algorithm
+evolutionary optimizationbased tuning of lowcost fuzzy controllers for servo systems	particle swarm optimization
+singular value decomposition based data distortion strategy for privacy protection	singular value decomposition
+highprecision biological event extraction effects of system and of data	natural language processing
+coordination of production and interstage batch delivery with outsourced distribution	supply chain scheduling
+coordination of production and interstage batch delivery with outsourced distribution	batching and delivery
+coordination of production and interstage batch delivery with outsourced distribution	two delivery modes
+learning representations for object classification using multistage optimal component analysis	linear data representations
+learning representations for object classification using multistage optimal component analysis	optimal component analysis
+knowledge support and automation for performance analysis with perfexplorer 20	parallel performance analysis
+knowledge support and automation for performance analysis with perfexplorer 20	knowledge supported analysis
+scheduling of batch processes an industrial application in paint industry	short term scheduling
+log version vector logging version vectors concisely in dynamic replication	log version vector
+dialectic tensions of information quality social networking sites and hiring	social networking sites
+development of an electronic configuretoorder platform for customized product development	supply chain management
+a software tool for teaching of particle swarm optimization fundamentals	particle swarm optimization
+on optimization of a car rim using finite element method	finite element method
+optimum geometry design of nonlinear braced domes using genetic algorithm	optimum geometry design
+co2rbfn an evolutionary cooperativecompetitive rbfn design algorithm for classification problems	cooperativecompetitive evolutionary design
+a scanline hidden surface removal procedure for constructive solid geometry	constructive solid geometry
+a scanline hidden surface removal procedure for constructive solid geometry	hidden line removal
+job shop scheduling by pheromone approach in a dynamic environment	ant colony intelligence
+job shop scheduling by pheromone approach in a dynamic environment	discrete event simulation
+tdm modeling and evaluation of different domain transforms for lsi	latent semantic indexing
+tdm modeling and evaluation of different domain transforms for lsi	discrete cosine transform
+tdm modeling and evaluation of different domain transforms for lsi	singular value decomposition
+design of optimal disturbance rejection pid controllers using genetic algorithms	disturbance rejection constraint
+genetic algorithms for matchup rescheduling of the flexible manufacturing systems	flexible manufacturing systems
+identifying a fuzzy model by using the bipartite membership functions	bipartite membership functions
+identifying a fuzzy model by using the bipartite membership functions	gradient descent method
+developing ip telephony laboratory and curriculum with private cloud computing	information technology education
+design of a motorcycle frame using neuroacceleration strategies in moeas	multiobjective evolutionary algorithms
+design of a motorcycle frame using neuroacceleration strategies in moeas	finite element analysis
+surrogate upper bound sets for biobjective bidimensional binary knapsack problems	multiple objective programming
+hand gesture recognition using tcombnet a new neural network model	sign language recognition
+characterization and modeling of runtime techniques for leakage power reduction	runtime leakage reduction
+extracting and understanding urban areas of interest using geotagged photos	areas of interest
+design of artificial neuron controller for statcom in dspace environment	artificial neural network
+design of artificial neuron controller for statcom in dspace environment	pulse width modulation
+a general model for continuous noninvasive pulmonary artery pressure estimation	svm parameter selection
+a general model for continuous noninvasive pulmonary artery pressure estimation	neural networks topology
+a faulttolerant energyefficient clustering protocol of a wireless sensor network	wireless sensor network
+an empirical comparison of methods to support qosaware service selection	quality of service
+an empirical comparison of methods to support qosaware service selection	time series forecasting
+genetic algorithm based reactive power dispatch for voltage stability improvement	reactive power dispatch
+assigning roles to protein mentions the case of transcription factors	transcription factor identification
+assigning roles to protein mentions the case of transcription factors	conditional random fields
+the role of the testers knowledge in exploratory software testing	methods for sqa
+comparison of objectoriented and traditional systemsdevelopment issues in distributed environments	systems development lifecycle
+a data mining formalization to improve hypergraph minimal transversal computation	hypergraph minimal transversals
+artificial neural network based contingency ranking method for voltage collapse	artificial neural network
+artificial neural network based contingency ranking method for voltage collapse	voltage stability assesment
+an entropy measure definition for finite intervalvalued hesitant fuzzy sets	hesitant fuzzy sets
+an entropy measure definition for finite intervalvalued hesitant fuzzy sets	lack of knowledge
+image change detection using gaussian mixture model and genetic algorithm	gaussian mixture model
+on interactive visualization of highdimensional data using the hyperbolic plane	visualizing highdimensional data
+on interactive visualization of highdimensional data using the hyperbolic plane	hyperbolic multidimensional scaling
+rate of change load balancing in distributed and parallel systems	dynamic load balancing
+rate of change load balancing in distributed and parallel systems	dynamic work load
+bounded neurocontrol position regulation for a geared dc motor	artificial neural network
+electronic patient records and innovation in health care services	electronic patient records
+domainindependent text segmentation using anisotropic diffusion and dynamic programming	documentdependent stop words
+a vhdlbased approach for power estimation of embedded systems	low power design
+energy neutral clustering for energy harvesting wireless sensors networks	wireless sensor networks
+numerical estimation of diffusivity in a nonhysteretic infiltration problem	quasilinear convectiondiffusion equation
+engineering security into distributed systems a survey of methodologies	secure software engineering
+engineering security into distributed systems a survey of methodologies	model driven security
+classifying the sociosituational settings of transcripts of spoken discourses	support vector machine
+classifying the sociosituational settings of transcripts of spoken discourses	dynamic bayesian networks
+classifying the sociosituational settings of transcripts of spoken discourses	part of speech
+selecting the best measures to discover quantitative association rules	quantitative association rules
+selecting the best measures to discover quantitative association rules	optimal fitness function
+analog vlsi implementation of wavelet transform using switchedcurrent circuits	differential evolution algorithm
+human face recognition based on spatially weighted hausdorff distance	facial feature detection
+human face recognition based on spatially weighted hausdorff distance	modified hausdorff distance
+human face recognition based on spatially weighted hausdorff distance	principal component analysis
+nearinfrared composite pattern projection for continuous motion handcomputer interaction	3d data acquisition
+secure and efficient broadcast authentication in wireless sensor networks	wireless sensor networks
+a simulation study of the model evaluation criterion mmre	software cost estimation
+a simulation study of the model evaluation criterion mmre	empirical software engineering
+a new stable method for singularly perturbed convectiondiffusion equations	finite element method
+batch incremental processing for fptree construction using fpgrowth algorithm	batch incremental processing
+batch incremental processing for fptree construction using fpgrowth algorithm	sequential incremental processing
+eedtc energyefficient dominating tree construction in multihop wireless networks	connected dominating set
+eedtc energyefficient dominating tree construction in multihop wireless networks	ad hoc network
+eedtc energyefficient dominating tree construction in multihop wireless networks	wireless sensor network
+multiple motion analysis in spatial or in spectral domain	multiple motion model
+a multithreaded fast convolver for dynamically parallel image filtering	high level languages
+a migrationbased approach towards resourceefficient wireless structural health monitoring	structural health monitoring
+a migrationbased approach towards resourceefficient wireless structural health monitoring	wireless sensor networks
+a migrationbased approach towards resourceefficient wireless structural health monitoring	distributed artificial intelligence
+a migrationbased approach towards resourceefficient wireless structural health monitoring	mobile multiagent systems
+feature determination for heart sounds based on divergence analysis	heart sound analysis
+distributed evolutionary digital filters for iir adaptive digital filters	adaptive digital filter
+a new kernelization framework for mahalanobis distance learning algorithms	distance metric learning
+word error rate minimization using an integrated confidence measure	support vector machines
+mining large data sets on grids issues and prospects	distributed knowlege discovery
+technology mapping for fieldprogrammable gate arrays using integer programming	integer linear program
+crosslingual text categorization conquering language boundaries in globalized environments	crosslingual text categorization
+an efficient dynamic memory allocator for sensor operating systems	dynamic memory allocation
+a hybrid approach for searching in the semantic web	spread activation algorithms
+energy efficient cooperative leach protocol for wireless sensor networks	wireless sensor network
+evaluation and design of beaconing in mobile wireless networks	ad hoc networks
+the it productivity paradox in health a stakeholders perspective	health information technology
+the it productivity paradox in health a stakeholders perspective	health services evaluation
+on an augmented lagrangianbased preconditioning of oseen type problems	saddle point systems
+fuzzy logic based economical analysis of photovoltaic energy management	cost benefits analysis
+fuzzy logic based economical analysis of photovoltaic energy management	household consumption modeling
+cloud bi future of business intelligence in the cloud	online analytical processing
+cloud bi future of business intelligence in the cloud	massively parallel systems
+bidirection quantum crossoverbased clonal selection algorithm and its applications	clonal selection algorithm
+bidirection quantum crossoverbased clonal selection algorithm and its applications	bidirection quantum crossover
+bidirection quantum crossoverbased clonal selection algorithm and its applications	traveling salesman problem
+autonomic control and personalization of a wireless access network	autoconfiguration of terminals
+autonomic control and personalization of a wireless access network	access network context
+autonomic control and personalization of a wireless access network	autoconfiguration of terminals
+autonomic control and personalization of a wireless access network	access network context
+media and data traffic coexistence in powercontrolled wireless networks	transmitter power control
+media and data traffic coexistence in powercontrolled wireless networks	multiple access control
+managerial entrenchment with strategic information technology a dynamic perspective	information technology adoption
+managerial entrenchment with strategic information technology a dynamic perspective	organizational decision making
+elite based multiobjective genetic programming in nonlinear systems identification	nonlinear system identification
+prototyping retractable stringbased interaction techniques for dualdisplay mobile devices	retractable stringbased input
+completely convex formulation of the chanvese image segmentation model	level set method
+completely convex formulation of the chanvese image segmentation model	vectorvalued functional lifting
+a semantic file system for integrated product data management	semantic file system
+the prodnet cooperative information management for industrial virtual enterprises	supply chain management
+modelling of twodimensional laminar flow using finite element method	newtonian incompressible fluid
+modelling of twodimensional laminar flow using finite element method	finite element method
+transforming information search and evaluation practices of undergraduate students	world wide web
+a twolayer structure prediction framework for microscopy cell detection	microscopy cell detection
+facebook the enabler of online civic engagement for activists	social networking sites
+combining different local binary pattern variants to boost performance	support vector machine
+combining different local binary pattern variants to boost performance	local binary patterns
+probability fuzzy cognitive map for decisionmaking in soccer robotics	weight value measurement
+mining software defect data to support software testing management	software testing management
+monocular extraction of 21d sketch using constrained convex optimization	convex quadratic optimization
+semantic web and natural language in online discussion forums	natural language processing
+semantic web and natural language in online discussion forums	semantic web technologies
+multiinstance classification based on regularized multiple criteria linear programming	support vector machine
+on classification of signals represented with datadependent overcomplete dictionaries	support vector machines
+reaching agreement among virtual subnets in hybrid failure mode	mobile adhoc network
+investigating restricted tournament replacement in ecga for nonstationary environments	restricted tournament replacement
+online scheduling of pickup and delivery tasks in hospitals	transportation of patients
+abnormal crowd behavior detection using highfrequency and spatiotemporal features	local spatiotemporal cuboid
+enhanced coregionalization analysis for simulating vector gaussian random fields	principal component analysis
+enhanced coregionalization analysis for simulating vector gaussian random fields	minimummaximum autocorrelation factors
+enhanced coregionalization analysis for simulating vector gaussian random fields	sequential gaussian simulation
+regulatory motif discovery using a population clustering evolutionary algorithm	populationbased data clustering
+on the parallel implementation of a hybridmixed stress formulation	hybridmixed stress models
+on the parallel implementation of a hybridmixed stress formulation	3d elastostatic problems
+highorderhpadaptive discontinuous galerkin finite element methods for acoustic problems	finite element method
+parallel onchip power distribution network analysis on multicoremultigpu platforms	power grid simulation
+deep sparse feature selection for computer aided endoscopy diagnosis	computer aided diagnosis
+geneticbased machine learning systems are competitive for pattern recognition	geneticbased machine learning
+geneticbased machine learning systems are competitive for pattern recognition	learning classifier systems
+geneticbased machine learning systems are competitive for pattern recognition	learning fuzzyclassifier systems
+energyefficient distributed spatial join processing in wireless sensor networks	distributed spatial index
+energyefficient distributed spatial join processing in wireless sensor networks	distributed spatial join
+energyefficient distributed spatial join processing in wireless sensor networks	innetwork query processing
+energyefficient distributed spatial join processing in wireless sensor networks	wireless sensor network
+automatic image annotation and retrieval using crossmedia relevance models	automatic image annotation
+higherorder linked interpolation in quadrilateral thick plate finite elements	finite element method
+higherorder linked interpolation in quadrilateral thick plate finite elements	mindlin plate theory
+statistical approaches to excitation modeling in hmmbased speech synthesis	hmmbased speech synthesis
+statistical approaches to excitation modeling in hmmbased speech synthesis	principal component analysis
+statistical approaches to excitation modeling in hmmbased speech synthesis	nonnegative matrix factorization
+energyaware routing in wireless ad hoc and sensor networks	wireless sensor networks
+oneclass support vector ensembles for image segmentation and classification	ensemble of classifiers
+using dataindependence in the analysis of intrusion detection systems	communicating sequential processes
+water cycle algorithm for solving constrained multiobjective optimization problems	water cycle algorithm
+water cycle algorithm for solving constrained multiobjective optimization problems	pareto optimal solutions
+ant colony optimization for power plant maintenance scheduling optimization	ant colony optimization
+ant colony optimization for power plant maintenance scheduling optimization	maxmin ant system
+deformable shape detection and description via modelbased region grouping	nonrigid shape models
+deformable shape detection and description via modelbased region grouping	statistical shape models
+slight homomorphic signature for access controlling in cloud computing	slight homomorphic signature
+application of adifor for air pollution model sensitivity studies	photochemical oxidant cycle
+optimality conditions and duality in nonsmooth multiobjective optimization problems	the kkt condition
+fading broadcast channels with state information at the receivers	broadcast channel bc
+fading broadcast channels with state information at the receivers	network information theory
+learning rules from incomplete training examples by rough sets	incomplete data set
+applying machine learning to text segmentation for information retrieval	chinese information retrieval
+issues in analyzing the behavior of event dispatching systems	event notification systems
+strategic alignment and value maximization for it project portfolios	it project management
+strategic alignment and value maximization for it project portfolios	project portfolio management
+engineering a bpel orchestration engine as a multiagent system	languages process algebra
+capacity of data collection in arbitrary wireless sensor networks	wireless sensor networks
+the capacity of wireless networks informationtheoretic and physical limits	ad hoc networks
+the capacity of wireless networks informationtheoretic and physical limits	network information theory
+a variablegrouping based genetic algorithm for largescale integer programming	largescale integer programming
+surankco supervised ranking of contigs in de novo assemblies	de novo assembly
+surankco supervised ranking of contigs in de novo assemblies	next generation sequencing
+fast high precision decision rules for valuing manufacturing flexibility	flexible manufacturing systems
+reconfiguration of four legged walking robot for actuator faults	locked joint failure
+the complexity of computing the size of an interval	interval size functions
+decoupled transient schemes for viscoelastic fluid flow with inertia	decoupled transient schemes
+decoupled transient schemes for viscoelastic fluid flow with inertia	viscoelastic fluid flow
+decoupled transient schemes for viscoelastic fluid flow with inertia	finite element method
+an informationtheoretic analysis of return maximization in reinforcement learning	asymptotic equipartition property
+optimizing glass coating lines mip model and valid inequalities	branch and bound
+optimizing glass coating lines mip model and valid inequalities	production line design
+sensitivity strategies in modelling heterogeneous media undergoing finite deformation	updated lagrangian formulation
+optimum oil production planning using infeasibility driven evolutionary algorithm	integer linear programming
+a segmentation framework for abdominal organs from ct scans	virtual surgery applications
+performance evaluation of layer 3 low latency handoff mechanisms	low latency handoff
+applying icc to dna translocation effect of dielectric boundaries	dielectric boundary force
+a survey of graph theoretical approaches to image segmentation	graph theoretical methods
+a survey of graph theoretical approaches to image segmentation	minimal spanning tree
+static and dynamic data modeling for information system design	static information modeling
+static and dynamic data modeling for information system design	dynamic information modeling
+static and dynamic data modeling for information system design	data state diagrams
+multiexcitation magnetoacoustic tomography with magnetic induction for bioimpedance imaging	electrical impedance imaging
+multiexcitation magnetoacoustic tomography with magnetic induction for bioimpedance imaging	finite element method
+parallel computation of wavelet transforms using the lifting scheme	messagepassing interface mpi
+adaptive route optimization in hierarchical mobile ipv6 networks	hierarchical mobile ipv6
+adaptive route optimization in hierarchical mobile ipv6 networks	adaptive route optimization
+on the random generation of monotone data sets	monotone data sets
+on the random generation of monotone data sets	weak order extensions
+realtime decompression and visualization of animated volume data	compression for visualization
+realtime decompression and visualization of animated volume data	time critical visualization
+understanding users behavior with software operation data mining	software operation knowledge
+microarray image gridding with stochastic search based approaches	markov random fields
+sesag an objectoriented application framework for realtime systems	realtime application development
+an animated directmanipulation interface to digital library services	world wide web
+simulation of slabased vmscaling algorithms for clouddistributed applications	service level agreements
+building reliable systems based on selforganizing multiagent systems	dynamic task allocation
+implementation of a fuzzybased level control using scada	programmable logic controller
+enabling efficient information discovery in a selfstructured grid	collaborative ant algorithms
+efficient bayesian hierarchical user modeling for recommendation system	bayesian hierarchical models
+organizational schemata of eportfolios for fostering higherorder thinking	information systems education
+sharing more information in gray visual cryptography scheme	image secret sharing
+sharing more information in gray visual cryptography scheme	polynomialbased secret sharing
+sharing more information in gray visual cryptography scheme	gray mixing model
+optimal solutions for the balanced minimum evolution problem	balanced minimum evolution
+a new algorithm for computing eigenpairs of matrices	particle swarm optimization
+a new algorithm for computing eigenpairs of matrices	restarted arnoldi method
+training twin support vector regression via linear programming	support vector machine
+selectionist relaxation genetic algorithms applied to image segmentation	optimal ga parameters
+interactive hybrid evolutionary computation for mems design synthesis	interactive hybrid computation
+innetwork computations of machinetomachine communications for wireless robotics	ad hoc networks
+a golden ratio parameterized algorithm for cluster editing	search tree algorithm
+applying the reflective middleware approach in grid computing	quality of service
+assessment based on linkage patterns in concept maps	computerbased concept maps
+assessment based on linkage patterns in concept maps	personal construction psychology
+the pattern of grey fuzzy forecasting with feedback	grey fuzzy forecast
+information fusion for text classification an experimental comparison	latent semantic indexing
+approximation algorithm for coloring of dotted interval graphs	dotted interval graph
+resource discovery and allocation for federated virtualized infrastructures	virtual network embedding
+a modelbased approach and analysis for multiperiod networks	process systems engineering
+an unsupervised model of redundancy for answer validation	support vector machine
+performance evaluation and optimization of human control strategy	human skill modeling
+performance evaluation and optimization of human control strategy	human control strategy
+price and qos competition in data communication services	data network pricing
+price and qos competition in data communication services	quality of service
+experimental evaluation of animatedverifying object viewers for java	integrated development environment
+morphological image analysis applied to crop field mapping	image processing chain
+range searching in a set of line segments	planar point location
+text classification with kernels on the multinomial manifold	support vector machine
+wind farm portfolio optimization under network capacity constraints	renewable capacity investment
+outlier detection in chemical data by fractal analysis	principal component analysis
+dependence condition graph for semanticsbased abstract program slicing	program dependence graphs
+markov encoding for detecting signals in genomic sequences	gene structure prediction
+markov encoding for detecting signals in genomic sequences	transcription start site
+markov encoding for detecting signals in genomic sequences	translation initiation site
+real options pricing by the finite element method	partial differential equations
+real options pricing by the finite element method	finite element method
+real options pricing by the finite element method	option pricing problems
+classification of garlic cultivars using an electronic nose	semiconductor gas sensor
+classification of garlic cultivars using an electronic nose	gas chromatographymass spectrometry
+classification of garlic cultivars using an electronic nose	principal component analysis
+a user interface for interactive cinematic shadow design	human computer interaction
+searching for overlapping coalitions in multiple virtual organizations	multiple virtual organizations
+searching for overlapping coalitions in multiple virtual organizations	overlapping coalition formation
+searching for overlapping coalitions in multiple virtual organizations	twodimensional binary encoding
+simultaneous mesh generation and partitioning for delaunay meshes	quality mesh generation
+topologyrelated modeling and characterization of wireless sensor networks	wireless sensor networks
+shear modulus estimation using parallelized partial volumetric reconstruction	breast cancer detection
+shear modulus estimation using parallelized partial volumetric reconstruction	inverse elasticity problem
+shear modulus estimation using parallelized partial volumetric reconstruction	magnetic resonance imaging
+shear modulus estimation using parallelized partial volumetric reconstruction	shear modulus estimation
+discovering useful and understandable patterns in manufacturing data	automated perceptions network
+a multilevel antcolony mining algorithm for membership functions	ant colony system
+an intrinsic semantic framework for recognizing image objects	semantic feature computation
+an agentbased solution for the berth allocation problem	decision support system
+programming adhoc networks of mobile and resourceconstrained devices	quality of result
+the interferencereduced energy loading for multicode hsdpa systems	iterative energy allocation
+the interferencereduced energy loading for multicode hsdpa systems	sum capacity maximization
+an implementation of complete asynchronous distributed garbage collection	distributed object systems
+diversified scm standard for the japanese retail industry	business process management
+diversified scm standard for the japanese retail industry	supply chain management
+analyzing influenza virus sequences using binary encoding approach	principal component analysis
+ontologybased intelligent mobile search oriented to global ecommerce	multilingual global ecommerce
+explicit semantic path mining via wikipedia knowledge tree	explicit semantic analysis
+classification of audio signals using svm and rbfnn	support vector machines
+classification of audio signals using svm and rbfnn	linear predictive coefficients
+classification of audio signals using svm and rbfnn	melfrequency cepstral coefficients
+parallel fully automatic hpadaptive 2d finite element package	finite element method
+parallel fully automatic hpadaptive 2d finite element package	high performance computing
+optimal resource allocation response to a smallpox outbreak	infectious disease outbreak
+a humanfactors experimental comparison of sql and qbe	controlled laboratory experimentation
+a humanfactors experimental comparison of sql and qbe	query language comparison
+fluidflow modelling of internet traffic in gsmgprs networks	onoff source model
+fluidflow modelling of internet traffic in gsmgprs networks	radio network dimensioning
+on the quality of service of failure detectors	quality of service
+model checking epistemicprobabilistic logic using probabilistic interpreted systems	markov decision processes
+mrf energy minimization and beyond via dual decomposition	markov random fields
+interactive image segmentation based on synthetic graph coordinates	interactive image segmentation
+interactive image segmentation based on synthetic graph coordinates	markov random field
+lipschitz continuous ordinary differential equations are polynomialspace complete	initial value problem
+lipschitz continuous ordinary differential equations are polynomialspace complete	ordinary differential equations
+building web services middleware with predictable execution times	predictability of execution
+building web services middleware with predictable execution times	earliest deadline first
+an advanced videobased system for monitoring active volcanoes	smart storing rate
+an advanced videobased system for monitoring active volcanoes	smart storing rate
+lowcomplexity principal component analysis for hyperspectral image compression	principal component analysis
+lowcomplexity principal component analysis for hyperspectral image compression	hyperspectral image compression
+circularly symmetric watermark embedding in 2d dft domain	discrete fourier transforms
+twolevel composite wing structural optimization using response surfaces	permutation genetic algorithms
+twolevel composite wing structural optimization using response surfaces	composite laminate optimization
+detecting multiple stochastic network motifs in network data	stochastic network motifs
+detecting multiple stochastic network motifs in network data	finite mixture models
+detecting multiple stochastic network motifs in network data	expectation maximization algorithms
+energyefficient opportunistic topology control in wireless sensor networks	wireless sensor networks
+data clustering using a linear cellular automatabased algorithm	social segregation models
+high performance publishsubscribe middleware for mobile wireless networks	mobile cellular networks
+high performance publishsubscribe middleware for mobile wireless networks	message oriented middleware
+datadriven models for monthly streamflow time series prediction	hydrologic time series
+datadriven models for monthly streamflow time series prediction	autoregressive moving average
+datadriven models for monthly streamflow time series prediction	artificial neural networks
+datadriven models for monthly streamflow time series prediction	phase space reconstruction
+datadriven models for monthly streamflow time series prediction	false nearest neighbors
+datadriven models for monthly streamflow time series prediction	dynamics of chaos
+support vector machines for classification in nonstandard situations	support vector machine
+a class of node based bottleneck improvement problems	bottleneck improvement problem
+ftpa supporting faulttolerant parallel computing through parallel recomputing	faulttolerant parallel algorithm
+an application service provider for finite element analysis	finite element method
+an application service provider for finite element analysis	application service provider
+local refinement of 3d triangulations using objectoriented methods	finite element method
+dynamic programming approach for partial decision rule optimization	partial decision rules
+effective and efficient similarity search in time series	dynamic time warping
+support vector machines in remote sensing a review	support vector machines
+biological image classification using roughfuzzy artificial neural network	artificial neural network
+efficient wavelet adaptation for hybrid waveletlarge margin classifiers	support vector machine
+sensor queries algebraic optimization for time and energy	wireless sensor networks
+classification of imbalanced remotesensing data by neural networks	artificial neural networks
+from wireless sensor networks towards cyber physical systems	cyber physical system
+from wireless sensor networks towards cyber physical systems	sensing and actuation
+from wireless sensor networks towards cyber physical systems	wireless sensor network
+a new svmbased image watermarking using gaussianhermite moments	support vector machine
+a new svmbased image watermarking using gaussianhermite moments	nonsubsampled contourlet transform
+learning morphological maps of galaxies with unsupervised regression	unsupervised nearest neighbors
+fluidstructure interaction using the particle finite element method	incompressible fluid flows
+fluidstructure interaction using the particle finite element method	finite element method
+on the predictability of large transfer tcp throughput	time series forecasting
+histology image analysis for carcinoma detection and grading	histology image analysis
+histology image analysis for carcinoma detection and grading	computed assisted diagnosis
+ect sensor optimization based on rsm and ga	electrical capacitance tomography
+ect sensor optimization based on rsm and ga	response surface methodology
+design of network topology in an adversarial environment	minimum cut set
+design of network topology in an adversarial environment	network flow algorithm
+online monitoring of plan execution a distributed approach	distributed online monitoring
+online monitoring of plan execution a distributed approach	plan execution monitoring
+optimization of order fulfillment in distribution network problems	multicriterion decision making
+optimization of order fulfillment in distribution network problems	analytic hierarchy process
+tool support for disseminating and improving development practices	software process improvement
+the balanced minimum evolution problem under uncertain data	balanced minimum evolution
+optimal sleep patterns for serving delaytolerant jobs	markov decision process
+performance evaluation of rsvp using opnet modeler	quality of service
+evolutionary game theory in multiobjective optimization problem	nonlinear programming problem
+exhaustive isomer generation using the genetic algorithm	topological equivalence classes
+closed constrained gradient mining in retail databases	frequent closed itemset
+hypercubebased data gathering in wireless sensor networks	wireless sensor networks
+mferglab software for processing multifocal electroretinography signals	radial basis function
+mferglab software for processing multifocal electroretinography signals	extreme learning machine
+lowpower wakeup radio for wireless sensor networks	wireless sensor networks
+pseudoorthogonalization of memory patterns for associative memory	artificial neural networks
+using computer algebra to find nash equilibria	polyhedral homotopy continuation
+ontologydriven document enrichment principles tools and applications	intelligent news servers
+gaussian process dynamical models for human motion	time series analysis
+gametheoretic static load balancing for distributed systems	expected response time
+a probabilistic approach to hybrid role mining	rolebased access control
+a probabilistic approach to hybrid role mining	hybrid role mining
+knowledge hiding from tree and graph databases	sensitive knowledge hiding
+benchmarking sepcmaes on the bbob2009 function testbed	covariance matrix adaptation
+natural vorticity boundary conditions on solid walls	incompressible navierstokes equations
+natural vorticity boundary conditions on solid walls	vorticity boundary conditions
+natural vorticity boundary conditions on solid walls	finite element method
+a blackbox approach for web application sla	quality of service
+minimumhotspot query trees for wireless sensor networks	wireless sensor network
+random keyassignment for secure wireless sensor networks	secure pairwise communications
+random keyassignment for secure wireless sensor networks	wireless sensor network
+random keyassignment for secure wireless sensor networks	key management protocols
+providing secure coordinated access to grid services	coordinated decision making
+contentbased organization and visualization of music archives	contentbased music retrieval
+mediacaptain an interface for browsing streaming media	video and text
+supporting regenerative medicine by integrative dimensionality reduction	principal component analysis
+supporting regenerative medicine by integrative dimensionality reduction	gene subset selection
+a note on the traveling repairman problem	traveling repairman problem
+a note on the traveling repairman problem	minimum latency problem
+simplegrid toolkit enabling geosciences gateways to cyberinfrastructure	componentbased software engineering
+nonnegative integral subset representations of integer sets	additive number theory
+a contentdriven framework for geolocating microblog users	spatial data mining
+asymmetric kappacenter is log nhard to approximate	hardness of approximation
+review of information extraction technologies and applications	web information analysis
+a local search mechanism for peertopeer networks	distributed information retrieval
+cooperative secret delivery in wireless sensor networks	wireless sensor networks
+genetic algorithms for the linear ordering problem	linear ordering problem
+automated design and optimization of lownoise oscillators	periodic steady state
+automated design and optimization of lownoise oscillators	perturbation projection vector
+people detection through quantified fuzzy temporal rules	fuzzy temporal rules
+strong equilibrium in cost sharing connection games	price of anarchy
+strong equilibrium in cost sharing connection games	cost sharing games
+white space networking with wifi like connectivity	dynamic spectrum access
+linear dimensionality reduction using relevance weighted lda	linear discriminant analysis
+knowledge encapsulation framework for technosocial predictive modeling	technosocial predictive analytics
+knowledge encapsulation framework for technosocial predictive modeling	knowledge encapsulation framework
+knowledge encapsulation framework for technosocial predictive modeling	collaborative computing environments
+knowledge encapsulation framework for technosocial predictive modeling	natural language processing
+multiobjective immune algorithm with nondominated neighborbased selection	artificial immune system
+sorting of rice grains using zernike moments	rice sorting process
+deliveries optimization by exploiting production traceability information	raw material dispersion
+deliveries optimization by exploiting production traceability information	artificial neural networks
+rulebased clustering for gene promoter structure discovery	gene expression analysis
+mining user similarity based on routine activities	locationbased social network
+face recognition based on extreme learning machine	discriminative locality alignment
+face recognition based on extreme learning machine	support vector machine
+face recognition based on extreme learning machine	extreme learning machine
+querying uncertain minimum in wireless sensor networks	wireless sensor network
+querying uncertain minimum in wireless sensor networks	algorithms and performance
+silicon support vector machine with online learning	large margin classifiers
+silicon support vector machine with online learning	quadratic programming qp
+silicon support vector machine with online learning	matrixvector multiplication mvm
+silicon support vector machine with online learning	analog array processors
+optimal crawling strategies for web search engines	web search engine
+behavioural equivalences on finitestate systems are ptimehard	finite transition systems
+visual analysis of multidimensional categorical data sets	3 computer graphics
+multimodel classification method in heterogeneous image databases	adaptive feature selection
+multimodel classification method in heterogeneous image databases	heterogeneous image database
+experiences with context management in emergency medicine	emergency medicine application
+a methodology for database system performance evaluation	database management systems
+optimizing storage performance for vmbased mobile computing	free block borrowing
+optimizing storage performance for vmbased mobile computing	opportunistic mobile computing
+aligning ontologybased development with service oriented systems	service oriented systems
+applicationspecific networkonchip synthesis with flexible router placement	application specific networkonchip
+applicationspecific networkonchip synthesis with flexible router placement	particle swarm optimization
+applicationspecific networkonchip synthesis with flexible router placement	integer linear programming
+knot selection for leastsquares and penalized splines	blind random search
+applicationtailored linear algebra algorithms a searchbased approach	numerical linear algebra
+applicationtailored linear algebra algorithms a searchbased approach	generation of algorithms
+red refinements of simplices into congruent subsimplices	finite element method
+performance improvement of dynamic buffered atm switch	dynamic buffered switch
+performance improvement of dynamic buffered atm switch	dynamic threshold updating
+passivity analysis for delayed discontinuous neural networks	discontinuous neuron activation
+accelerated neural evolution through cooperatively coevolved synapses	recurrent neural networks
+camera motion estimation through planar deformation determination	camera motion estimation
+an optimizationbased sampling scheme for phylogenetic trees	monte carlo likelihood
+efficient breadthfirst search on the cellbe processor	cell broadband engine
+efficient breadthfirst search on the cellbe processor	graph exploration algorithms
+efficient breadthfirst search on the cellbe processor	breadthfirst search bfs
+partially controlled deployment strategies for wireless sensors	wireless sensor networks
+realtime task scheduling for energyaware embedded systems	mixedinteger linear programming
+realtime task scheduling for energyaware embedded systems	realtime operating systems
+realtime task scheduling for energyaware embedded systems	variablespeed task scheduling
+coverage problems in sensor networks a survey	sensor coverage model
+coverage problems in sensor networks a survey	network coverage control
+coverage problems in sensor networks a survey	network protocol design
+biofeedback data visualization for body sensor networks	body sensor networks
+tackling 01 knapsack problem with gene induction	01 knapsack problem
+a hierarchical approach to multiclass fuzzy classifiers	fuzzy rulebased classifier
+a hierarchical approach to multiclass fuzzy classifiers	solar photovoltaic energy
+1norm least squares twin support vector machines	exterior penalty ep
+faster symmetry discovery using sparsity of symmetries	constraint satisfaction problems
+methods for gamma invariant colour image processing	colour image enhancement
+checking safety properties using compositional reachability analysis	compositional reachability analysis
+counter example for qbucketbrigade under prediction problem	geneticbased machine learning
+counter example for qbucketbrigade under prediction problem	learning classifier systems
+fluidstructural interaction with application to rocket engines	actualized lagrangian formulation
+straightlinebased primitive extraction in greyscale object recognition	straight line extraction
+optimizing neural networks on simd parallel computers	hopfield neural networks
+image enhancement by kriging and fuzzy sets	gaussian white noise
+perception granular computing in visual hazefree task	leveled granular system
+delivering web service coordination capability to users	web service coordination
+classification using phimachines and constructive function approximation	support vector machine
+energyefficient hierarchical routing for wireless sensor networks	wireless sensor networks
+energyefficient hierarchical routing for wireless sensor networks	multiple objective decisionmaking
+mimo feedback linearization control for power systems	feedback linearization control
+mimo feedback linearization control for power systems	power system oscillations
+special section on social media as sensors	social media analytics
+special section on social media as sensors	social media sensors
+selfadaptive frameletbased communication for wireless sensor networks	medium access control
+selfadaptive frameletbased communication for wireless sensor networks	wireless sensor network
+selfadaptive frameletbased communication for wireless sensor networks	adaptive duty cycle
+feature extraction based on the bhattacharyya distance	bayes error estimation
+flowspecific medium access for networked satellite system	system of systems
+propertydependent reductions adequate with divergencesensitive branching bisimilarity	divergencesensitive branching bisimulation
+propertydependent reductions adequate with divergencesensitive branching bisimilarity	labeled transition system
+broadcast capacity in multihop wireless networks	ad hoc networks
+broadcast capacity in multihop wireless networks	multihop wireless networks
+linear coherent estimation with spatial collaboration	wireless sensor networks
+multiobjective optimization of technical market indicators	technical trading rules
+random sampling for subspace face recognition	random subspace method
+expected current distributions for cmos circuits	power spectral density
+feature selection via neighborhood multigranulation fusion	neighborhood rough sets
+support vector machines for collaborative filtering	support vector machines
+a rkhs interpolatorbased graph matching algorithm	attributed relational graphs
+controlling the usability of web services	service oriented architectures
+controlling the usability of web services	statistical process control
+infopipes for composing distributed information flows	quality of service
+capacity of ad hoc wireless networks	ad hoc networks
+signaling sarcasm from hyperbole to hashtag	automatic sentiment analysis
+analysis of unsupervised dimensionality reduction techniques	latent semantic indexing
+a qosproviding multicast network management system	quality of service
+hybrid simulation models when why how	hybrid simulation models
+relevance aggregation projections for image retrieval	relevance aggregation projections
+specialpurpose computer for particle image velocimetry	particle image velocimetry
+empowering teams through social network ties	transactive memory system
+towards knowledgebased gene expression data mining	knowledgebased data mining
+face recognition using spectrumbased feature extraction	discrete fourier transform
+face recognition using spectrumbased feature extraction	discrete cosine transform
+adaptive experience engine for serious games	reinforcement learning rl
+adaptive experience engine for serious games	technology enhanced education
+evolutionary algorithm to traveling salesman problems	particle swarm optimization
+evolutionary algorithm to traveling salesman problems	traveling salesman problem
+nonintrusive aggregation in wireless sensor networks	wireless sensor networks
+efficient csl model checking using stratification	continuoustime markov chains
+efficient csl model checking using stratification	continuous stochastic logic
+multilocation transshipment problem with capacitated transportation	supply chain management
+detecting critical nodes in sparse graphs	critical node detection
+detecting critical nodes in sparse graphs	integer linear programming
+efficient coverage protocol without location information	wireless sensor networks
+efficient coverage protocol without location information	sensors location information
+efficient coverage protocol without location information	minimum dominating set
+extreme learning machine theory and applications	feedforward neural networks
+extreme learning machine theory and applications	extreme learning machine
+extreme learning machine theory and applications	support vector machine
+an optimal multiprocessor combinatorial auction solver	branch and bound
+probabilistic sequence clustering with spectral learning	method of moments
+social media for sustainable engineering communication	social networking applications
+dynamic load balancing for switchbased networks	tree walking algorithm
+temporal shortest paths parallel computing implementations	temporal shortest paths
+structural damage detection by fuzzy clustering	structural health monitoring
+structural damage detection by fuzzy clustering	principal component analysis
+optimal transmission modes by simulated annealing	wireless multihop network
+extending knowledge management to mobile workplaces	mobile added values
+extending knowledge management to mobile workplaces	mobile knowledge management
+extending knowledge management to mobile workplaces	mobile business processes
+emotion detection using noisy eeg data	support vector machines
+linked data the story so far	web of data
+real adaboost with gate controlled fusion	mixtures of experts
+diagnostic tracing for wireless sensor networks	wireless sensor networks
+reinforcement learning for dynamic multimedia adaptation	markov decision process
+postpositivist review of technology acceptance model	technology acceptance model
+postpositivist review of technology acceptance model	philosophy of science
+model checking of healthcare domain models	model driven design
+performance of networked xmldriven cooperative applications	network adaptive services
+knowledge acquisition past present and future	information technology evolution
+knowledge acquisition past present and future	propagation scholarly errors
+knowledge acquisition past present and future	world wide web
+on modeling of fuzzy hybrid systems	discrete event systems
+on modeling of fuzzy hybrid systems	continuous variable systems
+on modeling of fuzzy hybrid systems	type2 fuzzy sets
+logical structure of fuzzy ifthen rules	fuzzy relation equations
+logical structure of fuzzy ifthen rules	fuzzy type theory
+logical structure of fuzzy ifthen rules	fuzzy ifthen rules
+simulation of large ad hoc networks	ad hoc networks
+improved approximations for guarding 15dimensional terrains	totally balanced matrices
+improved approximations for guarding 15dimensional terrains	geometric covering problems
+infrastructure support for cooperative mobile environments	remote procedure call
+dualobjective optimization of integrated waterwastewater networks	integrated wastewater network
+dualobjective optimization of integrated waterwastewater networks	fresh water minimization
+unsupervised neighborhood component analysis for clustering	distance metric learning
+unsupervised neighborhood component analysis for clustering	neighborhood component analysis
+deriving linearizable finegrained concurrent objects	bounded model checking
+automated design of security protocols	automated protocol synthesis
+optimizing local performance in hpf	numerical linear algebra
+oop and the janus principle	object oriented programming
+powering requires threshold depth 3	circuit lower bounds
+statistical learning theory a primer	structural risk minimization
+statistical learning theory a primer	support vector machines
+algorithms for wireless sensor networks	wireless sensor networks
+centralized and distributed multiview correspondence	wide baseline stereo
+centralized and distributed multiview correspondence	distributed multicamera system
+existential secondorder logic over strings	finite model theory
+batch codes and their applications	locally decodable codes
+batch codes and their applications	private information retrieval
+kcoteries for tolerating network 2partition	kmutual exclusion problem
+convergence of map seeking circuits	map seeking circuits
+a visible polygon reconstruction algorithm	visible surface algorithms
+degext a languageindependent keyphrase extractor	graphbased document representation
+functional validation in grid computing	keywords and ontology
+performance analysis of idle programs	multitier server applications
+cost total colorings of trees	cost total coloring
+command use and interface design	human computer interaction
+the jopera visual composition language	visual composition languages
+precise eye and mouth localization	support vector machines
+precise eye and mouth localization	localization error measures
+a selftimed realtime sorting network	quality of service
+photorealistic talkingheads from image samples	samplebased image synthesis
+path hitting in acyclic graphs	edge dominating set
+armbased arrhythmia beat monitoring system	discrete wavelet transform
+pairwise ranking component analysis	distance metric learning
+a vlsi neurofuzzy controller	neural network hardware
+faultscalable byzantine faulttolerant services	replicated state machines
+simplexbased particles swarm optimizer	particle swarm optimization
+simplexbased particles swarm optimizer	neldermead simplex method
+hci realityan unreal tournament	attitude about reality
+fuzzy interval and semiorders	additive fuzzy preferences
+fuzzy interval and semiorders	interval indifference graphs
+reasoning with contextual graphs	decision support system
+strongly involutive uninorm algebras	involutive residuated lattice
+making trace monitors feasible	object oriented language
+perceptrons with polynomial postprocessing	local receptive field
+multicategory largemargin unified machines	support vector machine
+interactive separating streak surfaces	unsteady flow visualization
+interactive separating streak surfaces	streak surface generation
+automated testing of classes	testing objectoriented software
+automated testing of classes	testing and analysis
+automated testing of classes	data flow analysis
+parallel breadthfirst bdd construction	binary decision diagrams
+parallel breadthfirst bdd construction	distributed shared memory
+parallel breadthfirst bdd construction	shared memory multiprocessors
+selforganized combinatorial optimization	traveling salesman problem
+permuted function matching	approximate pattern matching
+permuted function matching	multiple knapsack problems
+permuted function matching	theory of computation
+redoubtable sensor networks	wireless sensor network
+redoubtable sensor networks	probabilistic key sharing
+mobile claims assistance	mobile web services
+staggered consistent checkpointing	consistent recovery line
+staggered consistent checkpointing	stable storage contention
+hyperinteractive evolutionary computation	interactive evolutionary computation
+multipleinstance discriminant analysis	block coordinate ascent
+virtual private caches	quality of service
+viscoplastic hadaptive analysis	dynamic nonlinear analysis
+cognitive memory	autoassociative neural networks
