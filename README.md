@@ -11,17 +11,18 @@ The codebase is composed of 8 components.
 Detailed documentation and comments for main functions are provided in the code.
 
 
-src/main: the main entrance of the codebase. call training/testing phase. 
+src/main: the main entrance of the codebase. call training/testing phase.  
 src/models: all the RNN networks for the encoder-decoder model
-src/paras: parameters for all RNN networks
-src/train: the training phase
-src/test: the testing phase
-src/evaluate: call in the testing phrase. provide greedy and beam search evaluation
-src/text: summary of text corpus
-src/datasets: file path for input datasets
+src/paras: parameters for all RNN networks  
+src/train: the training phase  
+src/test: the testing phase  
+src/evaluate: call in the testing phrase. provide greedy and beam search evaluation  
+src/text: summary of text corpus  
+src/datasets: file path for input datasets  
 
 train/papers/input: the training data  
-test/papers/input:  the testing data
+test/papers/input:  the testing data  
+The original [dataset](https://github.com/memray/seq2seq-keyphrase). The data in this repo is processed.
 
 Due to the size limit of github, the pre-trained model cannot be uploaded.
 Let me know if you need it. 
