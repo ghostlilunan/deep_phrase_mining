@@ -23,8 +23,12 @@ src/datasets: file path for input datasets
 train/papers/input: the training data  
 test/papers/input:  the testing data
 
-result/8c3f2b4/model: some previous trained model  
-result/8c3f2b4/prediction: some results
+Due to the size limit of github, the pre-trained model cannot be uploaded.
+Let me know if you need it. 
+
+# Results
+result/papers/8c3f2b4/prediction/analyzation.txt: contains the prediction of the testing dataset  
+The result is not satisfactory. It seems that the title of scientific publication doesn't contain enough information. Thus, it fails to correctly predict most phrases. 
 
 # Usage
 
